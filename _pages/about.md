@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shudong Huang"
+title: "Greetings!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! Welcome to my homepage! \
+Welcome to my homepage! \
 I'm currently an associate professor (副教授/博导) with the College of Computer Science, Sichuan University, Chengdu, China. I'm also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). I obtained my Ph.D. degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC) in Dec. 2019, where I was very fortunate to be advised by Prof. [Zenglin Xu](http://faculty.hitsz.edu.cn/xuzenglin). 
 
 I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mining* and their potential applications to multimedia data. I am specifically interested in
