@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanan Sun / Research Professor"
+title                    : "Shudong Huang (黄树东) / Associate Professor"
 title_separator          : "-"
-name                     : &name "Yanan Sun"
+name                     : &name "Shudong Huang"
 description              : &description "personal description"
-url                      : https://yn-sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huangsd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yn-sun.github.io"
+repository               : "huangsd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanan Sun"
+  name             : "Shudong Huang"
   avatar           : "head_yn.jpg"
-  bio              : "Research Professor, Sichuan University"
+  bio              : "Associate Professor of Computer Science, Sichuan University"
   location         : "Chengdu, China"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=kqErKX4AAAAJ&hl=zh-CN"
-  email            : "ysun@scu.edu.cn"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=shudong+huang"
+  googlescholar    : "https://scholar.google.com/citations?user=xa2bfaAAAAAJ&hl=en"
+  email            : "huangsd@scu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yn-sun"
+  github           : "huangsd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "http://orcid.org/0000-0001-6848-5460"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
