@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanan Sun"
+title: "Shudong Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-* Research Professor (This is the same level as a full professor but is without teaching duty)
-* Department of Artificial Intelligence\\
-College of Computer Science \\
-Sichuan University, China
-* Basic Building B 422B\\
-Wangjiang Campus, Sichuan University\\
-No.24 South Section 1, Yihuan Road, Chengdu, China, 610065
+Greetings! Welcome to my homepage! \
+I'm currently an associate professor (副教授/博导) with the College of Computer Science, Sichuan University, Chengdu, China. I'm also a member of [DICALab](https://dicalab.cn/) (Data Intelligence and Computing Arts Lab), which is led by Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm). I obtained my Ph.D. degree from School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC) in Dec. 2019, where I was very fortunate to be advised by Prof. [Zenglin Xu](http://faculty.hitsz.edu.cn/xuzenglin). 
+
+I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mining* and their potential applications to multimedia data. I am specifically interested in
+- **Representation Learning**: developing *unified theory* in data mining, computer vision, natural language processing, etc.
+- **Unsupervised/Semi-supervised Learning**: learning from unlabeled/and labeled data;
+- **Mlutiview/Multimodal learning**: learning from data represented by muliple views/modals;
+- **Online/Lifelong Learning**: learning models continuously from online streaming/continuous data;
+- **Deep Learning**: leveraging deep learning frameworks, including deep neural networks, deep matrix factorization, and so on, to handle complex learning tasks;
+- **Federated Learning**: learning models in a privacy-preserving decentralized collaborative way, considering the data isolation, privacy as well as security;
+- **Applied Mathematics**: modelling the (continuous) dynamical systems (essentially differential equations approximation problems) with machine learning.
 
 News
-======
-* I am looking for self-motivated Ph.D students to be <span style="color: #0000a0">enrolled in 2023</span>, please drop me an email with your CV and a research plan releated to my research interest.
-* One of our work focusing on <span style="color: #FF0000">Benchmark Platform of ENAS</span> is accepted by TEVC.
-* One of our work focusing on <span style="color: #FF0000">Constraint NAS</span> is accepted by TNNLS.
-* One of our work focusing on <span style="color: #FF0000">improving efficiency of NAS</span> is accepted by ICCV21.
+------
+- <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span> 
+- [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
+- [08/2022] I have been invited to be a PC member for the 37th AAAI Conference on Artificial Intelligence (AAAI'23).
+- [07/2022] "Latent Representation Guided Multi-view Clustering" was accepted by IEEE TKDE. Congrats to all the collaborators!
+- [06/2022] Two papers were accepted by ACM MM'22. Congrats to Yixi Liu and all the collaborators!
+- [05/2022] "Efficient Federated Multi-view Learning" was accepted by Pattern Recognition. Congrats to all the collaborators!
+- [03/2022] I have been invited to be a PC member for the 30th ACM International Conference on Multimedia (ACM MM'22).
+- [01/2022] One paper was accepted by AAAI'22. Congrats to all the collaborators!
+- ...
 
-Research Interest
+Contact
 ======
-My research interest focus on theory and applications of automated machine learning, including:
-* explainable/interpretable neural architecture search (NAS)
-* convergence analysis for evolutionary computation-based NAS
-* multi-/many-objective/ and constrained optimization for NAS
-* low-energy consumption NAS with high-inference speed
-* feature selection and construction
-* auto data augmentation
+*Address*: No.24 South Section 1, Yihuan Road, Chengdu 610065, China, \
+Basic Building B318, College of Computer Science, Sichuan University (Wangjiang Campus)\
+*Email*: huangsd@scu.edu.cn
