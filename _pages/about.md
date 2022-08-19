@@ -32,7 +32,7 @@ News
 - [01/2022] One paper was accepted by AAAI'22. Congrats to all the collaborators!
 - ...
 
-Contact
+Contacts
 ======
 *Address*: No.24 South Section 1, Yihuan Road, Chengdu 610065, China, \
 Basic Building B318, College of Computer Science, Sichuan University (Wangjiang Campus)\
