@@ -4,7 +4,7 @@ title: "Student:"
 permalink: /students/
 author_profile: true
 ---
-### Graduate Student
+## Graduate Student
 * Yixi Liu, Master Student, Sep. 2021-, Representation Learning and Multi-view Learning, ACM MM'22, IEEE TKDE'22
 * Hecheng Cai, Master Student, Sep. 2022-, Lifelong Learning and Multi-view Learning
 * Yuze Tan, Master Student, Sep. 2022-, Unsupervised Learning and Multi-view Learning
