@@ -8,12 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Services"
-    url: /services/
         
-  - title: "Supervision"
+  - title: "Students"
     url: /supervision/
 
-  - title: "Useful Links"
+  - title: "Others"
     url: /usefullinks/
