@@ -5,13 +5,13 @@ permalink: /grants&awards/
 author_profile: true
 ---
 
-## Grants (As PI)
-* Research platform of evolutionary architecture search based on PaddlePaddle, CCF-Baidu Joint Research Fund (Pinecone fund), 2021-2022.
-* Research and applications of evolutionary neural architecture for mobile devices, Science and Technology Department of Sichuan Province, 2021-2022 (with high-priority approval).
-* Research and application of recognition system based on deep neural network, Chengdu Science and Technology Bureau， 2020-2022.
-* Evolutionary computation-based architecture optimization for convolutional neural network, National Natural Science Foundation of China, 2019-2021.
-* Multimedia data abstract extraction and evaluation system, Sichuan Province Innovation Youth Fund, 2016-2017.
-* Large-scale video retrieval based on deep learning, Sichuan Province Innovation Youth Fund, 2014-2015.
+% Grants  (As PI)
+## Grants
+* 国家自然科学基金青年项目, 2022.01-2024.12, 主持.
+* 四川省科技厅重点研发项目, 2022.01-2023.12, 主持.
+* 四川省"十四五"重大科技专项子课题, 2021.07-2026.06, 主持.
+* 中央高校科研专项资助, 2020.07-2023.06, 主持.
+* 国家科技部科技创新2030重大项目, 2020.01-2023.12, 参与.
 
 ## Awards
 * 2016, IEEE CIS Chengdu Section, Best Student Paper Award.
