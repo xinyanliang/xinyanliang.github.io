@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shudong Huang (黄树东) / Associate Professor"
+title                    : "Dr. Shudong Huang"
 title_separator          : "-"
 name                     : &name "Shudong Huang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shudong Huang"
+  name             : "Shudong Huang (黄树东)"
   avatar           : "huangsd1.png"
   bio              : "Associate Professor of Computer Science, Sichuan University"
   location         : "Chengdu, China"
