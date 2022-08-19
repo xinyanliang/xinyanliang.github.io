@@ -10,3 +10,8 @@ author_profile: true
   * [Ref.1](https://csrankings.org/#/index?all&us)
   * [Ref.2](https://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html)
   * [Ref.3](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
+
+## Something other
+My last name can be pronounced as [Hwang].\
+I was born in Chengdu (a.k.a. Chengtu), Sichuan.\
+"It is never too late to be what you might have been." --- George Eliot
