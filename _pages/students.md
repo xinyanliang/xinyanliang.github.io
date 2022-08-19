@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Student:"
+title: "Graduate Students:"
 permalink: /students/
 author_profile: true
 ---
