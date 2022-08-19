@@ -4,8 +4,6 @@ title: "Grants & Awards"
 permalink: /grants&awards/
 author_profile: true
 ---
-
-% Grants  (As PI)
 ## Grants
 * 国家自然科学基金青年项目, 2022.01-2024.12, 主持.
 * 四川省科技厅重点研发项目, 2022.01-2023.12, 主持.
@@ -14,18 +12,20 @@ author_profile: true
 * 国家科技部科技创新2030重大项目, 2020.01-2023.12, 参与.
 
 ## Awards
-* 2016, IEEE CIS Chengdu Section, Best Student Paper Award.
-* 2016, National Scholarship of China.
-* 2016, IEEE Student Travel Grant.
-* 2015, Oversea PhD Scholarship (Awarded by China Scholarship Council)
+* Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
+* Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
+* Suzhou Student Travel Grant (Sponsored by Suzhou Municipal Government), 2019.
+* UESTC First Class Scholarship, 2017-2019.
+* National Scholarship of China, 2018.
+* Oversea PhD Scholarship (Awarded by China Scholarship Council (CSC)), 2018.
+* Sichuan province Computer Federation (SCF) Best Student Paper Award, 2018.
 
-## Chinese Patents (As first authorship)
-* Neural network construction system, method and storage medium of variable length gene genetic algorithm, NO. ZL202110140849.9.
-* An architecture search algorithm for convolutional variational autoencoder based on genetic algorithm, NO. ZL202010194858.1.
-* A GPU card management method, system and storage medium of multi GPU server in distributed environment, NO. ZL202010081235.3.
-* A face recognition method based on evolutionary convolutional neural architecture search, NO. ZL20201095004.5. 
+## Chinese Patents
+* 一种基于拓扑流形的多视图聚类方法及系统, NO.202210495105.3
+* 基于视图间差异性检测的多视图子空间聚类方法及系统, NO.202210524435.0
+* 一种用于测量股骨的便携式X光检测装置, NO.202221046376.2
+* 一种基于预训练模型的知识驱动对话方法, NO.202110575305.5
 
-## US Patens (All in process)
-* Face recognition method based on evolutionary convolutional neural network (first authorship)
+## US Patens
 * Method for differentiable architecture search based on a hierarchical grouping mechanism
 * Method for positioning key features of alens based on ocular B-modeultrasound images
