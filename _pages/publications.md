@@ -44,7 +44,7 @@ author_profile: true
 
 ## Manuscript/Preprints
 1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
-2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv.Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
+2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
 3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
 
 <!--
