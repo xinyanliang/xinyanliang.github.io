@@ -45,7 +45,10 @@ author_profile: true
 ## Manuscript/Preprints
 1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv.Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
-3. Yixi Liu, Yuze Tan, Hongjie Wu, Yazhou Ren, Jiancheng Lv, and **Shudong Huang***, Smoothed Metric Subspace Clustering. Submitted to <i>AAAI'23</i>.
-4. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***, Metric Multi-view Graph Clustering. Submitted to <i>AAAI'23</i>.
-5. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
+3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
+
+<!--
+4. Yixi Liu, Yuze Tan, Hongjie Wu, Yazhou Ren, Jiancheng Lv, and **Shudong Huang***, Smoothed Metric Subspace Clustering. Submitted to <i>AAAI'23</i>.
+5. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***, Metric Multi-view Graph Clustering. Submitted to <i>AAAI'23</i>.
+-->
 
