@@ -16,7 +16,7 @@ author_profile: true
 
 
 ## 2021
-1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv.Measuring Diversity in Graph Learning: A Unified Framework for Structured Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2021, in press. [[Link]](https://ieeexplore.ieee.org/document/9385922) [[Source Code]](https://github.com/huangsd/CDMGC)
+1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Measuring Diversity in Graph Learning: A Unified Framework for Structured Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2021, in press. [[Link]](https://ieeexplore.ieee.org/document/9385922) [[Source Code]](https://github.com/huangsd/CDMGC)
 2. **Shudong Huang**, Zhao Kang, Zenglin Xu, and Quanhui Liu. Robust Deep K-Means: An Effective and Simple Method for Data Clustering. <i>Pattern Recognition</i>, 2021, in press. [[Link]](https://doi.org/10.1016/j.patcog.2021.107996) [Source Code]
 3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, Jiancheng Lv, and Quanhui Liu. CDD: Multi-view Subspace Clustering via Cross-view Diversity Detection. In: <i>Proceedings of the 29th ACM International Conference on Multimedia (ACM MM'21)</i>, 2021, pp: 2308-2316. [[Link]](https://dl.acm.org/doi/abs/10.1145/3474085.3475393) [Source Code]
 
