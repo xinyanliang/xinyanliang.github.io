@@ -23,8 +23,9 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span> 
-- [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
+- [08/2022] "CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection" was accepted by IEEE TNNLS. Congrats to all the collaborators!
 - [08/2022] I have been invited to be a PC member for the 37th AAAI Conference on Artificial Intelligence (AAAI'23).
+- [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
 - [07/2022] "Latent Representation Guided Multi-view Clustering" was accepted by IEEE TKDE. Congrats to all the collaborators!
 - [06/2022] Two papers were accepted by ACM MM'22. Congrats to Yixi Liu and all the collaborators!
 - [05/2022] "Efficient Federated Multi-view Learning" was accepted by Pattern Recognition. Congrats to all the collaborators!
