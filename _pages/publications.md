@@ -44,8 +44,8 @@ author_profile: true
 3. **Shudong Huang**, Hongjun Wang, Dingcheng Li, Yan Yang, and Tianrui Li. Spectral Co-clustering Ensemble. <i>Knowledge-Based Systems</i>, 2015, 84: 46-55. [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705115001318) [Source Code]
 
 ## Manuscript/Preprints
-1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
-2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
+1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
+2. **Shudong Huang**, Wentao Feng, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Review and New Perspectives.
 3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
 
 <!--
