@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-1. Big Data Analysis, Fall 2022, College of Computer Science, Sichuan University (For graduate student)
+1. Big Data Analysis and Its Applications, Fall 2022, College of Computer Science, Sichuan University (For graduate student)
 2. Advanced Language Program Design, Fall 2021-2022, College of Computer Science, Sichuan University (For undergraduate student)
 3. Artificial Intelligence Frontier, Spring 2022, College of Computer Science, Sichuan University (For Ph.D student)
 4. Robotics Programming with ROS (University Immersion Program), Fall 2021, College of Computer Science, Sichuan University (For undergraduate student)
