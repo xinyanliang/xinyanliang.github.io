@@ -16,7 +16,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 - **Unsupervised/Semi-supervised Learning**: learning from unlabeled/and labeled data;
 - **Mlutiview/Multimodal learning**: learning from data represented by muliple views/modals;
 - **Online/Lifelong Learning**: learning models continuously from online streaming/continuous data;
-- **Deep Learning**: leveraging deep learning frameworks, including deep neural networks, deep matrix factorization, and so on, to handle complex learning tasks;
+- **Deep Learning**: leveraging deep learning frameworks, including deep neural networks, deep matrix factorization, deep forest, and so on, to handle complex learning tasks;
 - **Federated Learning**: learning models in a privacy-preserving decentralized collaborative way, considering the data isolation, privacy as well as security;
 - **Applied Mathematics**: modelling the (continuous) dynamical systems (essentially differential equations approximation problems) with machine learning.
 
