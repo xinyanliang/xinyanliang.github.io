@@ -12,6 +12,7 @@ author_profile: true
 * 国家科技部科技创新2030重大项目, 2020.01-2023.12, 参与.
 
 ## Awards
+* 四川大学第六届"德渥群芳"育人文化建设标兵团队, 2021.
 * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
 * Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
 * Suzhou Student Travel Grant (Sponsored by Suzhou Municipal Government), 2019.
