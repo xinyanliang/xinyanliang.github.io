@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author
 ## 2022
 1. **Shudong Huang**, Ivor W. Tsang, Zenglin Zu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [Link]  [Source Code] 
-2. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Zu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [Link]  [Source Code] 
+2. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Zu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [Source Code] 
 3. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Zu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code] 
 4. **Shudong Huang**, Ivor W. Tsang, Zenglin Zu, and Jiancheng Lv. Latent Representation Guided Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/abstract/document/9839553) [Source Code] 
 5. **Shudong Huang**, Wei Shi, Zenglin Xu, Ivor W. Tsang, and Jiancheng Lv. Efficient federated multi-view learning. <i>Pattern Recognition</i>, 2022, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322002989) [Source Code]
