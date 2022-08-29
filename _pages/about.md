@@ -38,3 +38,12 @@ Contacts
 *Address*: No.24 South Section 1, Yihuan Road, Chengdu 610065, China, \
 Basic Building B318, College of Computer Science, Sichuan University (Wangjiang Campus)\
 *Email*: huangsd@scu.edu.cn
+
+
+<!--
+- [09/2022] I have been invited to be a Program Co-Chair for the 6th International Conference on Computer Science and Artificial Intelligence [(CSAI'22)](www.csai.org)
+- [05/2022] 受邀担任国家自然科学基金委基金评审人;
+-->
+
+
+
