@@ -23,6 +23,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span> 
+- [09/2022] I have been invited to be a Program Co-Chair for the 6th International Conference on Computer Science and Artificial Intelligence [(CSAI'22)](www.csai.org).
 - [08/2022] "CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection" was accepted by IEEE TNNLS. Congrats to all the collaborators!
 - [08/2022] I have been invited to be a PC member for the 37th AAAI Conference on Artificial Intelligence (AAAI'23).
 - [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
@@ -42,7 +43,7 @@ Basic Building B318, College of Computer Science, Sichuan University (Wangjiang 
 
 
 <!--
-- [09/2022] I have been invited to be a Program Co-Chair for the 6th International Conference on Computer Science and Artificial Intelligence [(CSAI'22)](www.csai.org)
+- [09/2022] Two papers were accepted by NeurIPS'22. Congrats to Hongjie Wu and all the collaborators!
 -->
 
 
