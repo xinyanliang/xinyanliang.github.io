@@ -19,6 +19,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 - **Deep Learning**: leveraging deep learning frameworks, including deep neural networks, deep matrix factorization, deep forest, and so on, to handle complex learning tasks;
 - **Federated Learning**: learning models in a privacy-preserving decentralized collaborative way, considering the data isolation, privacy as well as security;
 - **AI for Science (AI4Science)**: exploring the intersections of multiple disciplines including applied mathematics/physics/chemistry/biology, astronomy, geography, dynamical systems, logical reasoning, machine learning, etc. Our team specifically focuses on boosting scientific simulation/calculation with AI & ML, incorporating physical insights to AI methods, and modelling the (continuous) dynamical systems (generally differential equations approximation problems) with AI & ML.
+
 <!--
 - spanning the areas of Artificial Intelligence, Data Science, Optimization, ...
 -->
