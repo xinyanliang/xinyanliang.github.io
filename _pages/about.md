@@ -35,6 +35,7 @@ News
 - [05/2022] 受邀担任国家自然科学基金委基金评审人.
 - [05/2022] "Efficient Federated Multi-view Learning" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [03/2022] I have been invited to be a PC member for the 30th ACM International Conference on Multimedia (ACM MM'22).
+- [02/2022] 受邀担任[《工程科学与技术》](https://mp.weixin.qq.com/s/ziqB_5hAXYSO0l9IdXCitg)期刊专栏副主编.
 - [01/2022] One paper was accepted by AAAI'22. Congrats to all the collaborators!
 - ...
 
