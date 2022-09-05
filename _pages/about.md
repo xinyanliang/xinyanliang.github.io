@@ -32,7 +32,7 @@ News
 - [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
 - [07/2022] "Latent Representation Guided Multi-view Clustering" was accepted by IEEE TKDE. Congrats to all the collaborators!
 - [06/2022] Two papers were accepted by ACM MM'22. Congrats to Yixi Liu and all the collaborators!
-- [05/2022] 受邀担任国家自然科学基金委基金评审人.
+- [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人.
 - [05/2022] "Efficient Federated Multi-view Learning" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [03/2022] I have been invited to be a PC member for the 30th ACM International Conference on Multimedia (ACM MM'22).
 - [02/2022] 受邀担任[《工程科学与技术》](https://mp.weixin.qq.com/s/ziqB_5hAXYSO0l9IdXCitg)期刊专栏副主编.
