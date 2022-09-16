@@ -4,16 +4,18 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-*indicating the corresponding author
+*indicating the corresponding author \
+#indicating the co-first author
 ## 2022
-1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [Link]  [Source Code] 
-2. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [Source Code] 
-3. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code] 
-4. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Latent Representation Guided Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/abstract/document/9839553) [Source Code] 
-5. **Shudong Huang**, Wei Shi, Zenglin Xu, Ivor W. Tsang, and Jiancheng Lv. Efficient federated multi-view learning. <i>Pattern Recognition</i>, 2022, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322002989) [Source Code]
-6. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, Jiancheng Lv, and Quanhui Liu. Multi-view Clustering on Topological Manifold. In: <i>Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'22)</i>, 2022, pp: 6944-6951. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/20652) [Source Code]
-7. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multiple Partitions Alignment via Spectral Rotation. <i>Machine Learning</i>, 2022, 111: 1049-1072. [[Link]](https://link.springer.com/article/10.1007/s10994-021-06071-x) [Source Code] 
-8. Quanhui Liu, Juanjuan Zhang, Cheng Peng, Maria Litvinova, **Shudong Huang**, and et.al. Model-based Evaluation of Alternative Reactive Class Closure Strategies Against COVID-19. <i>Nature Communications (nature 子刊)</i>, 2022, 13(1): 1-10. [[Link]](https://www.nature.com/articles/s41467-021-27939-5) [Source Code]
+1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Jiancheng Lv, and Wentao Feng. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
+3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [Link]  [Source Code] 
+4. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [Source Code] 
+5. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code] 
+6. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Latent Representation Guided Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/abstract/document/9839553) [Source Code] 
+7. **Shudong Huang**, Wei Shi, Zenglin Xu, Ivor W. Tsang, and Jiancheng Lv. Efficient federated multi-view learning. <i>Pattern Recognition</i>, 2022, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322002989) [Source Code]
+8. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, Jiancheng Lv, and Quanhui Liu. Multi-view Clustering on Topological Manifold. In: <i>Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'22)</i>, 2022, pp: 6944-6951. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/20652) [Source Code]
+9. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multiple Partitions Alignment via Spectral Rotation. <i>Machine Learning</i>, 2022, 111: 1049-1072. [[Link]](https://link.springer.com/article/10.1007/s10994-021-06071-x) [Source Code] 
+10. Quanhui Liu, Juanjuan Zhang, Cheng Peng, Maria Litvinova, **Shudong Huang**, and et.al. Model-based Evaluation of Alternative Reactive Class Closure Strategies Against COVID-19. <i>Nature Communications (nature 子刊)</i>, 2022, 13(1): 1-10. [[Link]](https://www.nature.com/articles/s41467-021-27939-5) [Source Code]
 
 
 ## 2021
@@ -45,12 +47,12 @@ author_profile: true
 
 ## Manuscript/Preprints
 1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
-2. **Shudong Huang**, Wentao Feng, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Review and New Perspectives.
+2. **Shudong Huang**#, Wentao Feng#, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Review and New Perspectives.
 3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
 
 <!--
 4. Yixi Liu, Yuze Tan, Hongjie Wu, Yazhou Ren, Jiancheng Lv, and **Shudong Huang***. Smoothed Metric Subspace Clustering. Submitted to <i>AAAI'23</i>.
 5. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***. Metric Multi-view Graph Clustering. Submitted to <i>AAAI'23</i>.
-6. **Shudong Huang**, Hongjie Wu, Yazhou Ren, Ivor Tsang, Zenglin Xu, Jiancheng Lv, and Wentao Feng. Multi-view Subspace Clustering on Topological Manifold. Submitted to <i>NeurIPS'22</i>.
+6. 
 -->
 
