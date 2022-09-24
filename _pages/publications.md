@@ -8,7 +8,7 @@ author_profile: true
 #indicating the co-first author
 ## 2022
 1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Jiancheng Lv, and Wentao Feng. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
-3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [Link]  [Source Code] 
+3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9900299) [Source Code] 
 4. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [Source Code] 
 5. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code] 
 6. Jianjian Shao, Zhenqian Wu, Yuanyan Luo, **Shudong Huang**, Xiaorong Pu, and Yazhou Ren. Self-Paced Label Distribution Learning for In-The-Wild Facial Expression Recognition. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code]
