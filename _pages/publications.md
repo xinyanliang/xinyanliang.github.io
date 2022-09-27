@@ -7,7 +7,7 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first author
 ## 2022
-1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Jiancheng Lv, and Wentao Feng. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
+1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
 3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9900299) [Source Code] 
 4. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [Source Code] 
 5. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022. [Link]  [Source Code] 
@@ -53,7 +53,7 @@ author_profile: true
 3. **Shudong Huang**, Hongjun Wang, Dingcheng Li, Yan Yang, and Tianrui Li. Spectral Co-clustering Ensemble. <i>Knowledge-Based Systems</i>, 2015, 84: 46-55. [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705115001318) [Source Code]
 
 ## Manuscript/Preprints
-1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering. Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
+1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 2. **Shudong Huang**#, Wentao Feng#, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Review and New Perspectives.
 3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
 
