@@ -55,8 +55,8 @@ author_profile: true
 
 ## Manuscript/Preprints
 1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
-2. **Shudong Huang**#, Wentao Feng#, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Review and New Perspectives. [[arXiv]](https://arxiv.org/abs/2211.05567)
-3. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. Submitted to <i>Pattern Recognition</i>.
+2. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567)
+
 
 <!--
 4. Yixi Liu, Yuze Tan, Hongjie Wu, Yazhou Ren, Jiancheng Lv, and **Shudong Huang***. Smoothed Metric Subspace Clustering. Submitted to <i>AAAI'23</i>.
