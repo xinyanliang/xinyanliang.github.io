@@ -27,7 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
-- [11/2022] The latest version of our survey work about *DNNs for PDEs* has been released on [[arXiv]](https://arxiv.org/abs/2211.05567).
+- [11/2022] The latest version of our survey work about *DNNs for PDEs* has been released on [[arXiv]](https://arxiv.org/abs/2211.05567). Here is a [[report]](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
 - [10/2022] Congrats to Yixi Liu's National Scholarship of China! Note that she is the only student of Grade 2021 who won this award. [[Link]](https://mp.weixin.qq.com/s/etH5uk5sC4ErkOZuNwfanA) 
 - [09/2022] One paper was accepted by NeurIPS'22. Congrats to Hongjie Wu and all the collaborators!
 - [09/2022] I have been invited to be a Program Co-Chair for the 6th International Conference on Computer Science and Artificial Intelligence [(CSAI'22)](http://www.csai.org/index.html).
