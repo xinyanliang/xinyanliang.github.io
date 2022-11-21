@@ -6,6 +6,10 @@ author_profile: true
 ---
 *indicating the corresponding author \
 #indicating the co-first author
+## 2023
+1. Yuze Tan, Yixi Liu, Hongjie Wu, **Shudong Huang***, and Jiancheng Lv. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
+2. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
+
 ## 2022
 1. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2022, in press. [Link] [Source Code]
 2. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
@@ -20,7 +24,6 @@ author_profile: true
 11. Peng Zhao, Hongjie Wu, and **Shudong Huang***. Multi-View Graph Clustering by Adaptive Manifold Learning. <i>Mathematics</i>, 2022, in press. [[Link]](https://www.mdpi.com/2227-7390/10/11/1821) [Source Code]
 12. Qian Zhang, Zhao Kang, Zenglin Xu, **Shudong Huang**, Hongguang Fu. Spaks: Self-paced Multiple Kernel Subspace Clustering with Feature Smoothing Regularization. <i>Knowledge-Based Systems</i>, 2022, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705122007523) [Source Code]
 13. Quanhui Liu, Juanjuan Zhang, Cheng Peng, Maria Litvinova, **Shudong Huang**, and et.al. Model-based Evaluation of Alternative Reactive Class Closure Strategies Against COVID-19. <i>Nature Communications (nature 子刊)</i>, 2022, 13(1): 1-10. [[Link]](https://www.nature.com/articles/s41467-021-27939-5) [Source Code]
-
 
 ## 2021
 1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Measuring Diversity in Graph Learning: A Unified Framework for Structured Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2021, in press. [[Link]](https://ieeexplore.ieee.org/document/9385922) [[Source Code]](https://github.com/huangsd/CDMGC)
