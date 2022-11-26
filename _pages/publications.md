@@ -11,7 +11,7 @@ author_profile: true
 2. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
 
 ## 2022
-1. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2022, in press. [Link] [Source Code]
+1. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2022, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [Source Code]
 2. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. [Link]  [Source Code] 
 3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9900299) [[Source Code]](https://github.com/huangsd/CGDD) 
 4. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [[Source Code]](https://github.com/huangsd/MVSC-via-Cross-view-Diversity-Detection) 
