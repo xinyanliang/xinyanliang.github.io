@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [12/2022] I have been invited to be a SPC member for the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23).
 - [11/2022] Two papers were accepted by AAAI'23. Congrats to Yuze Tan and all the collaborators!
 - [11/2022] "Pure Graph-guided Multi-view Subspace Clustering" was accepted by Pattern Recognition. Congrats to Hongjie Wu and all the collaborators!
 - [11/2022] The latest version of our survey work about *DNNs for PDEs* has been released on [arXiv](https://arxiv.org/abs/2211.05567). Here is a [report](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
