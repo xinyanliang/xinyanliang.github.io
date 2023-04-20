@@ -7,10 +7,12 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first author
 ## 2023
-1. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023. [Link] [Source Code]
-2. Yuze Tan, Yixi Liu, Hongjie Wu, **Shudong Huang***, and Jiancheng Lv. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
-3. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
-4. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [Source Code]
+1. Hecheng Cai, Yuze Tan, **Shudong Huang***, and Jiancheng Lv. Lifelong Multi-view Spectral Clustering. In: <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)<i>, 2023. [Link] [Source Code]
+2. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023. [Link] [Source Code]
+3. Yuze Tan, Yixi Liu, Hongjie Wu, **Shudong Huang***, and Jiancheng Lv. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
+4. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
+5. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [Source Code]
+  
 
 ## 2022
 1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. (<span style="color: #FF0000">Spotlight</span>) [Link] [Source Code] 
