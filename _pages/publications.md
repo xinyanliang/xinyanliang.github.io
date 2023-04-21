@@ -15,7 +15,8 @@ author_profile: true
   
 
 ## 2022
-1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022. (<span style="color: #FF0000">Spotlight</span>) [Link] [Source Code] 
+1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022, pp: 25883-25894. (<span style="color: #FF0000">Spotlight</span>) [[Link]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a6610efd6c767f63343a4ab28505212e-Abstract-Conference.html)
+) [Source Code] 
 2. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. CGDD: Multi-view Graph Clustering via Cross-graph Diversity Detection. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9900299) [[Source Code]](https://github.com/huangsd/CGDD) 
 3. **Shudong Huang**, Yixi Liu, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2022, in press. [[Link]](https://ieeexplore.ieee.org/document/9860070) [[Source Code]](https://github.com/huangsd/MVSC-via-Cross-view-Diversity-Detection) 
 4. **Shudong Huang**, Yixi Liu, Yazhou Ren, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Learning Smooth Representation for Multi-view Subspace Clustering. In: <i>Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22)</i>, 2022, pp: 3421–3429. [[Link]](https://dl.acm.org/doi/abs/10.1145/3503161.3548248) [Source Code] 
