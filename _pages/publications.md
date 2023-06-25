@@ -8,7 +8,7 @@ author_profile: true
 #indicating the co-first author
 ## 2023
 1. Hecheng Cai, Yuze Tan, **Shudong Huang***, and Jiancheng Lv. Lifelong Multi-view Spectral Clustering. In: <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)<i>, 2023. [Link] [Source Code]
-2. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023. [Link] [Source Code]
+2. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023. [[Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Sample-Level_Multi-View_Graph_Clustering_CVPR_2023_paper.html) [Source Code]
 3. Yuze Tan, Yixi Liu, Hongjie Wu, **Shudong Huang***, and Jiancheng Lv. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
 4. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023. [Link] [Source Code]
 5. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [Source Code]
@@ -30,7 +30,7 @@ author_profile: true
 
 ## 2021
 1. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Measuring Diversity in Graph Learning: A Unified Framework for Structured Multi-view Clustering. <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2021, 34(12): 5869-5883. [[Link]](https://ieeexplore.ieee.org/document/9385922) [[Source Code]](https://github.com/huangsd/CDMGC)
-2. **Shudong Huang**, Zhao Kang, Zenglin Xu, and Quanhui Liu. Robust Deep K-Means: An Effective and Simple Method for Data Clustering. <i>Pattern Recognition</i>, 2021, in press. [[Link]](https://doi.org/10.1016/j.patcog.2021.107996) [Source Code]
+2. **Shudong Huang**, Zhao Kang, Zenglin Xu, and Quanhui Liu. Robust Deep K-Means: An Effective and Simple Method for Data Clustering. <i>Pattern Recognition</i>, 2021, in press. [[Link]](https://doi.org/10.1016/j.patcog.2021.107996) [[Source Code]](https://github.com/huangsd/Deep-K-means)
 3. **Shudong Huang**, Ivor W. Tsang, Zenglin Xu, Jiancheng Lv, and Quanhui Liu. CDD: Multi-view Subspace Clustering via Cross-view Diversity Detection. In: <i>Proceedings of the 29th ACM International Conference on Multimedia (ACM MM'21)</i>, 2021, pp: 2308-2316. [[Link]](https://dl.acm.org/doi/abs/10.1145/3474085.3475393) [Source Code]
 4. Ji Zhang, Hongjun Wang, **Shudong Huang**, Tianrun Li, Peng Jin, Ping Deng, and Qigang Zhao. Co-Adjustment Learning for Co-Clustering. <i>Cognitive Computation</i>, 2021, 13: 504-517. [[Link]](https://link.springer.com/article/10.1007/s12559-021-09827-8) [Source Code]
 
