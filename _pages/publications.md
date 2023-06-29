@@ -6,13 +6,18 @@ author_profile: true
 ---
 *indicating the corresponding author \
 #indicating the co-first author
+## Manuscript/Preprints
+1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567)
+2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
+
+
 ## 2023
 1. Hecheng Cai, Yuze Tan, **Shudong Huang***, and Jiancheng Lv. Lifelong Multi-view Spectral Clustering. In: <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)<i>, 2023. [Link] [Source Code]
 2. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023, pp: 23966-23975. [[Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Sample-Level_Multi-View_Graph_Clustering_CVPR_2023_paper.html) [[Source Code]](https://github.com/huangsd/Sample-Level-MVGC)
 3. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023, pp: 9962-9970. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26188) [[Source Code]](https://github.com/huangsd/MMGC)
 4. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023, pp: 7936-7943. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/25960) [Source Code]
 5. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [[Source Code]](https://github.com/74587887/PGSC_code)
-  
+
 
 ## 2022
 1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022, pp: 25883-25894. (<span style="color: #FF0000">Spotlight</span>) [[Link]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a6610efd6c767f63343a4ab28505212e-Abstract-Conference.html) [[Source Code]](https://github.com/huangsd/MVSC-on-TM) 
@@ -58,10 +63,6 @@ author_profile: true
 1. **Shudong Huang**, Zenglin Xu, and Fei Wang. Nonnegative Matrix Factorization with Adaptive Neighbors. In: <i>Proceedings of the 30th International Joint Conference on Neural Networks (IJCNN'17)</i>, 2017, pp: 486-493. [[Link]](https://ieeexplore.ieee.org/abstract/document/7965893) [[Source Code]](https://github.com/huangsd/NMFAN)
 2. **Shudong Huang**, Hongjun Wang, Tao Li, Yan Yang, and Tianrui Li. Constraint Co-projections for Semi-supervised Co-clustering. <i>IEEE Transactions on Cybernetics</i>, 2016, 46(12): 3047-3058. [[Link]](https://ieeexplore.ieee.org/abstract/document/7328720) [[Source Code]](https://github.com/huangsd/CPSSCC)
 3. **Shudong Huang**, Hongjun Wang, Dingcheng Li, Yan Yang, and Tianrui Li. Spectral Co-clustering Ensemble. <i>Knowledge-Based Systems</i>, 2015, 84: 46-55. [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705115001318) [Source Code]
-
-## Manuscript/Preprints
-1. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
-2. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567)
 
 
 <!--
