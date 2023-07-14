@@ -12,7 +12,7 @@ author_profile: true
 
 
 ## 2023
-1. **Shudong Huang**, Yixi Liu, Hecheng Cai, Yuze Tan, Chenwei Tang, and Jiancheng Lv. Smooth Representation Learning from Multi-view Data. <i>Information Fusion<i>, 2023, in press. [Link] [Source Code]
+1. **Shudong Huang**, Yixi Liu, Hecheng Cai, Yuze Tan, Chenwei Tang, and Jiancheng Lv. Smooth Representation Learning from Multi-view Data. <i>Information Fusion<i>, 2023, in press. [[Link]](https://doi.org/10.1016/j.inffus.2023.101916) [Source Code]
 2. Hecheng Cai, Yuze Tan, **Shudong Huang***, and Jiancheng Lv. Lifelong Multi-view Spectral Clustering. In: <i>Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)<i>, 2023. [Link] [[Source Code]](https://github.com/huangsd/LMSC)
 3. Yuze Tan, Yixi Liu, **Shudong Huang***, Wentao Feng, and Jiancheng Lv. Sample-level Multi-view Graph Clustering. In: <i>Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'23)<i>, 2023, pp: 23966-23975. [[Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Tan_Sample-Level_Multi-View_Graph_Clustering_CVPR_2023_paper.html) [[Source Code]](https://github.com/huangsd/Sample-Level-MVGC)
 4. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023, pp: 9962-9970. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26188) [[Source Code]](https://github.com/huangsd/MMGC)
