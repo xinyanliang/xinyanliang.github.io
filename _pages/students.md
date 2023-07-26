@@ -10,7 +10,7 @@ author_profile: true
 * Hongjie Wu &#8194; &#160; Ph.D Student &#8195; Sep. 2022- &#8195; Deep Learning (co-advised with Prof. [Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm)) &#8195; NeurIPS'22, PR'23, AAAI'23, ACM MM'23
 * Hao Dai &#8195; &#8194; &#8194; M.Sc. Student &#8195; Sep. 2023- &#8195; Reinforcement Learning
 * Yang Liu &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Embodied Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'23
-* Peng Su &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Partial Multi-View Learning & Equivariant Learning 
+* Peng Su &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Partial Multimodal Learning & Equivariant Learning 
 
 
  
