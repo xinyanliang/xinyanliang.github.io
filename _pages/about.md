@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [07/2023] Two papers were accepted by ACM MM'23. Congrats to Yixi Liu and all the collaborators!
 - [07/2023] I have been invited to be a PC member for the 38th AAAI Conference on Artificial Intelligence (AAAI'24).
 - [07/2023] "Smooth Representation Learning from Multi-view Data" was accepted by Information Fusion. Congrats to all the collaborators!
 - [04/2023] One paper was accepted by IJCAI'23. Congrats to Hecheng Cai and all the collaborators!
