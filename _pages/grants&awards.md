@@ -5,9 +5,7 @@ permalink: /grants&awards/
 author_profile: true
 ---
 ## Grants
-<!--
 * 国家自然科学基金面上项目, 2024.01-2027.12, 主持. 
--->
 * 四川省科技厅重点研发项目, 2022.01-2023.12, 主持.
 * 国家自然科学基金青年基金项目, 2022.01-2024.12, 主持.
 * 四川省"十四五"重大科技专项子课题, 2021.07-2026.06, 主持.
@@ -33,3 +31,5 @@ author_profile: true
 ## US Patens
 * Method for differentiable architecture search based on a hierarchical grouping mechanism
 * Method for positioning key features of alens based on ocular B-modeultrasound images
+
+  <!--  -->
