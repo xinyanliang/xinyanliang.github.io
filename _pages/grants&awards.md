@@ -14,8 +14,8 @@ author_profile: true
 
 ## Awards
 * 四川大学第六届"德渥群芳"育人文化建设标兵团队, 2021.
-* Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
-* Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
+* 四川省优秀博士毕业生, 2020.
+* 电子科技大学优秀博士毕业生, 2020.
 * Suzhou Student Travel Grant (Sponsored by Suzhou Municipal Government), 2019.
 * UESTC First Class Scholarship, 2017-2019.
 * National Scholarship of China, 2018.
@@ -32,4 +32,7 @@ author_profile: true
 * Method for differentiable architecture search based on a hierarchical grouping mechanism
 * Method for positioning key features of alens based on ocular B-modeultrasound images
 
-  <!--  -->
+  <!--
+  * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
+  Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
+  -->
