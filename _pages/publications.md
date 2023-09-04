@@ -10,7 +10,6 @@ author_profile: true
 1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567) [[report]](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 
-
 ## 2023
 1. Yixi Liu, Yuze Tan, Hongjie Wu, **Shudong Huang***, Yazhou Ren, and Jiancheng Lv. Preserving Local and Global Information: An Effective Metric-based Subspace Clustering. In: <i>Proceedings of the 31th ACM International Conference on Multimedia (ACM MM'23)<i>, 2023. [Link] [Source Code] 
 2. Tongjie Pan, Yalan Ye, Hecheng Cai, **Shudong Huang**, Yang Yang, and Guoqing Wang. Multimodal Physiological Signals Fusion for Online Emotion Recognition. In: <i>Proceedings of the 31th ACM International Conference on Multimedia (ACM MM'23)<i>, 2023. [Link] [Source Code]
@@ -20,7 +19,7 @@ author_profile: true
 6. Yuze Tan, Yixi Liu, Hongjie Wu, Jiancheng Lv, and **Shudong Huang***. Metric Multi-view Graph Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023, pp: 9962-9970. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/26188) [[Source Code]](https://github.com/huangsd/MMGC)
 7. Zongmo Huang, Yazhou Ren, Xiaorong Pu, **Shudong Huang**, Zenglin Xu, and Lifang He. Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering. In: <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23)<i>, 2023, pp: 7936-7943. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/25960) [Source Code]
 8. Hongjie Wu, **Shudong Huang***, Chenwei Tang, Yancheng Zhang, and Jiancheng Lv. Pure Graph-guided Multi-view Subspace Clustering. <i>Pattern Recognition</i>, 2023, in press. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320322006665) [[Source Code]](https://github.com/74587887/PGSC_code)
-
+9. Xinggu Liu, Zhiming Long, Zongyuan Li, Shudong Huang, and Zhuqing Wang. An Improved Adaptive Periodical Segment Matrix Algorithm for ECG Denoising based on Singular Value Decomposition. <i>Technology and Health Care</i>, 2023, 31(1): 269-281. [[Link]](https://pubmed.ncbi.nlm.nih.gov/36031921/)
 
 ## 2022
 1. **Shudong Huang**#, Hongjie Wu#, Yazhou Ren, Ivor Tsang, Zenglin Xu, Wentao Feng, and Jiancheng Lv. Multi-view Subspace Clustering on Topological Manifold. In: <i>Advances in Neural Information Processing Systems 35 (NeurIPS'22)</i>, 2022, pp: 25883-25894. (<span style="color: #FF0000">Spotlight</span>) [[Link]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a6610efd6c767f63343a4ab28505212e-Abstract-Conference.html) [[Source Code]](https://github.com/huangsd/MVSC-on-TM) 
