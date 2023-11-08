@@ -14,7 +14,7 @@ I'm currently an associate professor (副教授/博导) with the College of Comp
 I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mining* and their potential applications to multimedia data. I am specifically interested in
 - **Representation Learning**: developing *unified theory* in data mining, computer vision, natural language processing, etc;
 - **Unsupervised/Semi-supervised Learning**: learning from unlabeled/and few labeled data;
-- **Mlutiview/Multimodal learning**: learning from data represented by muliple views/modals;
+- **Multiview/Multimodal learning**: learning from data represented by multiple views/modals;
 - **Online/Lifelong Learning**: learning models continuously from online streaming/continuous data;
 - **Deep Learning**: leveraging deep learning frameworks, including deep neural networks, deep matrix factorization, deep forest, and so on, to handle complex learning tasks;
 - **Federated Learning**: learning models in a privacy-preserving decentralized collaborative way, considering the data isolation, privacy as well as security;
