@@ -27,10 +27,11 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [12/2023] I have been invited to be a SPC member for the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24).
 - [11/2022] Congrats to Yixi Liu's National Scholarship of China! Note that this is the second time she won this award.
 - [11/2022] Congrats to Yuze Tan's National Scholarship of China! Note that he is one of the two students of Grade 2022 who won this award.
 - [11/2022] Congrats to Hecheng Cai's Huawei Scholarship! Note that he is one of the two students of Grade 2022 who won this award.
-- [11/2023] I have been invited to be a PC member for the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR'24).
+- [11/2023] I have been invited to be a PC member for the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference (CVPR'24).
 - [10/2023] One paper was accepted by NeurIPS'23. Congrats to all the collaborators!
 - [07/2023] Two papers were accepted by ACM MM'23. Congrats to Yixi Liu and all the collaborators!
 - [07/2023] I have been invited to be a PC member for the 38th AAAI Conference on Artificial Intelligence (AAAI'24).
