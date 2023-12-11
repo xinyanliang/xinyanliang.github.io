@@ -10,6 +10,9 @@ author_profile: true
 1. **Shudong Huang**#, Wentao Feng#, Chenwei Tang, Zhenan He, Caiyang Yu, and Jiancheng Lv. Partial Differential Equations Meet Deep Neural Networks: A Survey. [[arXiv]](https://arxiv.org/abs/2211.05567) [[report]](https://mp.weixin.qq.com/s/NkTzXwhEzUYqsf3oT-50IQ).
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 
+## 2024
+1. Yuze Tan, Hecheng Cai, **Shudong Huang***, Shuping Wei, Fan Yang, and Jiancheng Lv. An Effective Augmented Lagrangian Method for Fine-grained Multi-view Optimization. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)<i>, 2024. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+
 ## 2023
 1. Mingjia Shi, Yuhao Zhou, Kai Wang, Huaizheng Zhang, **Shudong Huang**, Qing Ye, and Jiangcheng Lv. PRIOR: Personalized Prior for Reactivating the Information Overlooked in Federated Learning. In: <i>Advances in Neural Information Processing Systems 36 (NeurIPS'23)</i>, 2023. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
 2. Yixi Liu, Yuze Tan, Hongjie Wu, **Shudong Huang***, Yazhou Ren, and Jiancheng Lv. Preserving Local and Global Information: An Effective Metric-based Subspace Clustering. In: <i>Proceedings of the 31th ACM International Conference on Multimedia (ACM MM'23)<i>, 2023, pp: 3619–3627. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://dl.acm.org/doi/10.1145/3581783.3612235) [Source Code] 
