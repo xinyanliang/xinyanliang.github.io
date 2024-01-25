@@ -27,6 +27,8 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [01/2024] I have been invited to be a PC member for the 32nd ACM International Conference on Multimedia (ACM MM'24).
+- [01/2024] I have been invited to be a PC member for the 41st International Conference on Machine Learning (ICML'24).
 - [12/2023] One paper was accepted by AAAI'24. Congrats to Yuze Tan and all the collaborators!
 - [12/2023] I have been invited to be a SPC member for the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24).
 - [11/2022] Congrats to Yixi Liu's National Scholarship of China! Note that this is the second time she won this award.
@@ -38,7 +40,7 @@ News
 - [07/2023] I have been invited to be a PC member for the 38th AAAI Conference on Artificial Intelligence (AAAI'24).
 - [07/2023] "Smooth Representation Learning from Multi-view Data" was accepted by Information Fusion. Congrats to all the collaborators!
 - [04/2023] One paper was accepted by IJCAI'23. Congrats to Hecheng Cai and all the collaborators!
-- [04/2023] I have been invited to be a PC member for the ACM International Conference on Multimedia (ACM MM'23).
+- [04/2023] I have been invited to be a PC member for the 31st ACM International Conference on Multimedia (ACM MM'23).
 - [02/2023] One paper was accepted by CVPR'23. Congrats to Yuze Tan and all the collaborators!
 - [12/2022] I have been invited to be a SPC member for the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23).
 - [11/2022] Two papers were accepted by AAAI'23. Congrats to Yuze Tan and all the collaborators!
