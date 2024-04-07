@@ -11,7 +11,7 @@ author_profile: true
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 
 ## 2024
-1. Yuze Tan, Hecheng Cai, **Shudong Huang***, Shuping Wei, Fan Yang, and Jiancheng Lv. An Effective Augmented Lagrangian Method for Fine-grained Multi-view Optimization. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)<i>, 2024, pp: 15258-15266. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]
+1. Yuze Tan, Hecheng Cai, **Shudong Huang***, Shuping Wei, Fan Yang, and Jiancheng Lv. An Effective Augmented Lagrangian Method for Fine-grained Multi-view Optimization. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)<i>, 2024, pp: 15258-15266. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/29449) [Source Code]
 
 ## 2023
 1. Kun Zhang, Zhichu Xia, **Shudong Huang**, Gui-Quan Sun, Jiancheng Lv, Marco Ajelli, Keisuke Ejima, and Quan-Hui Liu. Evaluating the Impact of Test-trace-isolate for COVID-19 Management and Alternative Strategies. <i>PLOS Computational Biology<i>, 2023, in press. [[Link]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011423) [Source Code]
