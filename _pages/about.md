@@ -27,6 +27,8 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [04/2024] Two papers were accepted by IJCAI'24. Congrats to Hecheng Cai, Peng Su, and all the collaborators!
+- [03/2024] "Self-Weighted Contrastive Fusion for Deep Multi-View Clustering" was accepted by IEEE TMM. Congrats to all the collaborators!
 - [01/2024] I have been invited to be a PC member for the 32nd ACM International Conference on Multimedia (ACM MM'24).
 - [01/2024] I have been invited to be a PC member for the 41st International Conference on Machine Learning (ICML'24).
 - [12/2023] One paper was accepted by AAAI'24. Congrats to Yuze Tan and all the collaborators!
