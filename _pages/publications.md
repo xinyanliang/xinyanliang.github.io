@@ -11,8 +11,8 @@ author_profile: true
 2. **Shudong Huang**, Hecheng Cai, Ivor W. Tsang, Zenglin Xu, and Jiancheng Lv. Topological Manifold Learning for Multi-view Clustering.
 
 ## 2024
-1. Peng Su, Yixi Liu, Shujian Li, **Shudong Huang***, and Jiancheng Lv. Robust Contrastive Multi-view Kernel Clustering. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, to appear. [Link] [Source Code]  
-2. Hecheng Cai, Yang Liu, **Shudong Huang***, and Jiancheng Lv. With a Little Help from Language: Semantic Enhanced Visual Prototype Framework for Few-Shot Learning. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, to appear. [Link] [Source Code] 
+1. Peng Su, Yixi Liu, Shujian Li, **Shudong Huang***, and Jiancheng Lv. Robust Contrastive Multi-view Kernel Clustering. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code]  
+2. Hecheng Cai, Yang Liu, **Shudong Huang***, and Jiancheng Lv. With a Little Help from Language: Semantic Enhanced Visual Prototype Framework for Few-Shot Learning. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)<i>, Jeju, South Korea, 2024, to appear. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 3. Song Wu, Yan Zheng, Yazhou Ren, Jing He, Xiaorong Pu, **Shudong Huang**, Zhifeng Hao, and Lifang He. Self-Weighted Contrastive Fusion for Deep Multi-View Clustering. <i>IEEE Transactions on Multimedia</i>, 2024, in press. [Link] [Source Code]
 4. Yuze Tan, Hecheng Cai, **Shudong Huang***, Shuping Wei, Fan Yang, and Jiancheng Lv. An Effective Augmented Lagrangian Method for Fine-grained Multi-view Optimization. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)<i>, Vancouver, Canada, 2024, pp: 15258-15266. (<span style="color: #FF0000">CCF-A</span>) [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/29449) [Source Code]
 
