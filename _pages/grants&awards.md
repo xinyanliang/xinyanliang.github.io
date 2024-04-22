@@ -18,7 +18,7 @@ author_profile: true
 * 四川省优秀博士毕业生, 2020.
 * 电子科技大学优秀博士毕业生, 2020.
 * Suzhou Student Travel Grant (Sponsored by Suzhou Municipal Government), 2019.
-* UESTC First Class Scholarship, 2017-2019.
+* UESTC First Class Scholarship for 3 successive years, 2017-2019.
 * National Scholarship of China, 2018.
 * Oversea PhD Scholarship (Awarded by China Scholarship Council (CSC)), 2018.
 * Sichuan province Computer Federation (SCF) Best Student Paper Award, 2018.
