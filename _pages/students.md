@@ -13,7 +13,7 @@ author_profile: true
 * Yang Liu &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Embodied Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'23, IJCAI'24, ICML'24
 * Peng Su &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Equivariant Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; IJCAI'24, ICML'24 
 
-
+Alumni
  
 
   <!--
