@@ -17,7 +17,7 @@ Students:
 
 Alumni:
 ------
-* Yixi Liu &#8195; &#8195; &#8194; M.Sc. Student &#8195; Sep. 2021 - Jun. 2024 &#8195; Multi-view Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'22, IEEE TKDE'22, National Scholarship'22 (国奖), SCU First Class Scholarship'23 (一等奖学金), AAAI'23, CVPR'23, INFFUS'23, ACM MM'23, National Scholarship'23 (国奖), IJCAI'24
+* Yixi Liu &#8195; &#8195; &#8194; M.Sc. &#8195; Sep. 2021 - Jun. 2024 &#8195; Multi-view Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'22, IEEE TKDE'22, National Scholarship'22 (国奖), SCU First Class Scholarship'23 (一等奖学金), AAAI'23, CVPR'23, INFFUS'23, ACM MM'23, National Scholarship'23 (国奖), IJCAI'24
 
   Now: 中信银行成都研发中心
 
