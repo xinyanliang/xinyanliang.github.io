@@ -31,7 +31,6 @@ News
 - [05/2024] Congrats to Yixi Liu. Master's thesis defense was held successfully!
 - [05/2024] I have been invited to be a PC member for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24).
 - [05/2024] One paper was accepted by ICML'24. Congrats to Hao Dai and all the collaborators!
-- [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人.
 - [04/2024] Two papers were accepted by IJCAI'24. Congrats to Hecheng Cai, Peng Su, and all the collaborators!
 - [03/2024] "Self-Weighted Contrastive Fusion for Deep Multi-View Clustering" was accepted by IEEE TMM. Congrats to all the collaborators!
 - [01/2024] I have been invited to be a PC member for the 32nd ACM International Conference on Multimedia (ACM MM'24).
@@ -62,7 +61,6 @@ News
 - [08/2022] "Multi-view Subspace Clustering by Joint Measuring of Consistency and Diversity" was accepted by IEEE TKDE. Congrats to Yixi Liu and all the collaborators!
 - [07/2022] "Latent Representation Guided Multi-view Clustering" was accepted by IEEE TKDE. Congrats to all the collaborators!
 - [06/2022] Two papers were accepted by ACM MM'22. Congrats to Yixi Liu and all the collaborators!
-- [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人.
 - [05/2022] "Efficient Federated Multi-view Learning" was accepted by Pattern Recognition. Congrats to all the collaborators!
 - [03/2022] I have been invited to be a PC member for the 30th ACM International Conference on Multimedia (ACM MM'22).
 - [02/2022] 受邀担任[《工程科学与技术》](https://mp.weixin.qq.com/s/ziqB_5hAXYSO0l9IdXCitg)期刊专栏副主编.
@@ -74,6 +72,11 @@ Contacts
 *Address*: No.24 South Section 1, Yihuan Road, Chengdu 610065, China, \
 Basic Building B318, College of Computer Science, Sichuan University (Wangjiang Campus)\
 *Email*: huangsd@scu.edu.cn
+
+
+<!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
+<!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 
 
