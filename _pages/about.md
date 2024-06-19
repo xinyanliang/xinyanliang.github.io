@@ -27,8 +27,11 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [06/2024] I have been invited to be a PC member for the 39th AAAI Conference on Artificial Intelligence (AAAI'25).
 - [05/2024] Congrats to Yixi Liu. Master's thesis defense was held successfully!
+- [05/2024] I have been invited to be a PC member for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24).
 - [05/2024] One paper was accepted by ICML'24. Congrats to Hao Dai and all the collaborators!
+- [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人.
 - [04/2024] Two papers were accepted by IJCAI'24. Congrats to Hecheng Cai, Peng Su, and all the collaborators!
 - [03/2024] "Self-Weighted Contrastive Fusion for Deep Multi-View Clustering" was accepted by IEEE TMM. Congrats to all the collaborators!
 - [01/2024] I have been invited to be a PC member for the 32nd ACM International Conference on Multimedia (ACM MM'24).
