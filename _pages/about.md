@@ -27,6 +27,7 @@ I have broad interest in *Representation Learning*, *Machine Learning*, *Data Mi
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Ph.D students, Postdoctorals and Assistant Professors to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
 - [07/2024] One paper was accepted by ACM MM'24. Congrats to all the collaborators!
 - [06/2024] "Euclidean Distance Is Not Your Swiss Army Knife" was accepted by IEEE TKDE. Congrats to Yuze Tan and all the collaborators!
 - [06/2024] I have been invited to be a PC member for the 39th AAAI Conference on Artificial Intelligence (AAAI'25).
