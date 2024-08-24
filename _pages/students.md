@@ -14,8 +14,8 @@ Students:
 * Hao Dai &#8195; &#8194; &#8194; M.Sc. Student &#8195; Sep. 2023- &#8195; Reinforcement Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#160; ICML'24, ACM MM'24 
 * Yang Liu &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Embodied Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; ACM MM'23, IJCAI'24, ICML'24
 * Peng Su &#8194; &#8194; &#8194; &#160; Ph.D Student &#8195; Sep. 2023- &#8195; Equivariant Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; IJCAI'24, ICML'24
-* Ping He &#8194; &#8194; &#8194; &#160;&#160; Ph.D Student &#8195; Sep. 2024- &#8195; Neuromorphic Computing &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;
-* Xinliu Liu &#8194; &#8194; &#160; &#160; Ph.D Student &#8195; Sep. 2024- &#8195; Multimodal Learning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;
+* Ping He &#8194; &#8194; &#8194; &#160;&#160; Ph.D Student &#8195; Sep. 2024- &#8195; Neuromorphic Computing (co-advised with Prof. [Rong Xiao](https://cs.scu.edu.cn/info/1289/18041.htm))
+* Xinliu Liu &#8194; &#8194; &#160; &#160; Ph.D Student &#8195; Sep. 2024- &#8195; Multimodal Learning (co-advised with Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm))
 * Zhiwen cao &#8194; &#8194;  Ph.D Student &#8195; Sep. 2024- &#8195; Machine Unlearning &#8195; &#8195; &#8195; &#8195; &#8195; &#8195; &#8195;
 
 Alumni:
