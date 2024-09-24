@@ -17,9 +17,9 @@ author_profile: true
 
 [2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep Incomplete Multi-View Learning Network with Insufficient Label Information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search, The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI-24). (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
 [5] Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024. (<span style="color: #FF0000">CCF-A Oral 录用率3.97%</span>) [Link] [Source Code] 
 
