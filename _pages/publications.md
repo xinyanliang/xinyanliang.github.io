@@ -15,7 +15,7 @@ author_profile: true
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [[Link](https://doi.org/10.1609/aaai.v38i12.29281)] [Source Code] 
 
-[2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep Incomplete Multi-View Learning Network with Insufficient Label Information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/29189)] [[Source Code](https://github.com/ZhangqiJiang07/code DIMvLN)]
+[2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep Incomplete Multi-View Learning Network with Insufficient Label Information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/29189)] [[Source Code](https://github.com/ZhangqiJiang07/code\_DIMvLN)]
 
 [3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [[Link](https://www.ijcai.org/proceedings/2024/0440.pdf)] [Source Code] 
 
