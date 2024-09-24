@@ -27,10 +27,13 @@ author_profile: true
 
 [7] Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable multi-view unsupervised feature selection with structure learning and fusion. The 32nd ACM MULTIMEDIA 2024 (ACM MM-24), 2024. Melbourne, Australia, 28 October-1 November, 2024.  (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[8] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
+[8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. IEEE Transactions on Evolutionary Computation (IEEE TEVC) , 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
+
+
+[9] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
 ## 2023
-[1] Yayu Zhang, Yuhua Qian, Guoshuai Ma, Xinyan Liang, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. IEEE Transactions on Evolutionary Computation (IEEE TEVC) , 2023,XX(X):XXX-XXX. （CCF-B 类, SCI-1区）Accepted.
+
 
 
 ## 2022 and before
