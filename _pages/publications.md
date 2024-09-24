@@ -31,9 +31,6 @@ author_profile: true
 
 9 Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
-## 2023
-
-
 
 ## 2022 and before
 1 **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
