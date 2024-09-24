@@ -19,7 +19,7 @@ author_profile: true
 
 [3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-structures-guided multi-modal classification neural architecture search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [[Link](https://www.ijcai.org/proceedings/2024/0440.pdf)] [Source Code] 
 
-[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
 [5] Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024. (<span style="color: #FF0000">CCF-A Oral 录用率3.97%</span>) [Link] [Source Code] 
 
@@ -29,7 +29,9 @@ author_profile: true
 
 [8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
-[9] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
+[9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature Subspace Learning-based Binary Differential Evolution Algorithm for Unsupervised Feature Selection. IEEE Transactions on Big Data,2024.
+
+[10] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
 
 ## 2023 and before
