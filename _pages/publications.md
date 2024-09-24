@@ -13,7 +13,7 @@ author_profile: true
 [1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A Data Representation Method Using Distance Correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
 
 ## 2024
-[1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link](https://doi.org/10.1609/aaai.v38i12.29281)[Source Code] 
 
 [2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep Incomplete Multi-View Learning Network with Insufficient Label Information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29189) [Source Code](https://github.com/ZhangqiJiang07/code DIMvLN)
 
