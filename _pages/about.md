@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my homepage! \
 I'm currently a Lecturer (讲师/硕导) with the Institute of Big Data Science and Industry, Shanxi University, Taiyuan, China. I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fortunate to be advised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/index.html). 
 
-I have broad interest in *Multi-Modal/View Learning*, *Signal Processing*, and their potential applications to Physics. I am specifically interested in
+I have broad interest in *Multimodal/view Learning*, *Signal Processing*, and their potential applications to Physics. I am specifically interested in
 - **Multiview/Multimodal learning**: learning from data represented by multiple views/modals;
 - **AI for Science (AI4Science)**: .
 
