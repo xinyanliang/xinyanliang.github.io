@@ -29,7 +29,7 @@ author_profile: true
 
 [8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
-[9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature Subspace Learning-based Binary Differential Evolution Algorithm for Unsupervised Feature Selection. IEEE Transactions on Big Data,2024.
+[9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. IEEE Transactions on Big Data,2024.
 
 [10] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
