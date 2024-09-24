@@ -10,7 +10,7 @@ author_profile: true
 1. ...
 
 ## 2025
-1 Xinyan Liang, Yuhua Qian, Qian Guo, Keyin Zheng. A Data Representation Method Using Distance Correlation. Frontiers of Computer Science, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
+[1] Xinyan Liang, Yuhua Qian, Qian Guo, Keyin Zheng. A Data Representation Method Using Distance Correlation. Frontiers of Computer Science, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
