@@ -5,34 +5,19 @@ permalink: /grants&awards/
 author_profile: true
 ---
 ## Grants
-* 国家自然科学基金面上项目, 2024.01-2027.12, 主持
-* 教育部工程研究中心开放课题，2023.01-2025.12, 主持
-* 四川省科技厅重点研发项目, 2022.01-2023.12, 主持
-* 国家自然科学基金青年基金项目, 2022.01-2024.12, 主持
-* 四川省"十四五"重大科技专项子课题, 2021.07-2026.06, 主持
-* 中央高校科研专项资助, 2020.07-2023.06, 主持
-* 国家科技部科技创新2030重大项目, 2020.01-2023.12, 参与
+* 国家自然科学基金青年项目，特征关联语义下的多模态表征融合机理与方法研究（62306171），2024-01 至 2026-12，30万，主持
+* 山西省科技厅, 山西省科技重大专项计划“揭榜挂帅”项目课题, 面向复杂电磁大数据的多模态知识挖掘技术, 2023-01 至 2026-01, 140万元, 在研, 主持
+
 
 ## Awards
-* 四川大学本科优秀毕业论文指导老师, 2022.
-* 四川大学第六届"德渥群芳"育人文化建设标兵团队, 2021.
-* 四川省优秀博士毕业生, 2020.
-* 电子科技大学优秀博士毕业生, 2020.
-* Suzhou Student Travel Grant (Sponsored by Suzhou Municipal Government), 2019.
-* UESTC First Class Scholarship for 3 successive years, 2017-2019.
-* National Scholarship of China, 2018.
-* Oversea PhD Scholarship (Awarded by China Scholarship Council (CSC)), 2018.
-* Sichuan province Computer Federation (SCF) Best Student Paper Award, 2018.
+* 山西省优秀博士论文奖, 2022.
+
+
 
 ## Chinese Patents
-* 一种基于拓扑流形的多视图聚类方法及系统, NO.202210495105.3
-* 基于视图间差异性检测的多视图子空间聚类方法及系统, NO.202210524435.0
-* 一种用于测量股骨的便携式X光检测装置, NO.202221046376.2
-* 一种基于预训练模型的知识驱动对话方法, NO.202110575305.5
+* 梁新彦，郭倩，钱宇华，朱哲清，彭甫镕. 一种基于演化计算多视图融合的分子结构图检索方法. 国家发明专利，授权号：ZL202010666319.3，授权时间：2022.5.31
+* 郭倩，钱宇华，梁新彦. 一种基于逻辑学习的多图检索方法. 国家发明专利，授权号：ZL202110337481.5，授权时间：2022.11.11
 
-## US Patens
-* Method for differentiable architecture search based on a hierarchical grouping mechanism
-* Method for positioning key features of alens based on ocular B-modeultrasound images
 
   <!--
   * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
