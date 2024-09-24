@@ -35,7 +35,7 @@ author_profile: true
 
 
 ## 2023 and before
-[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [Link] [Source Code] 
 
 [2] **Xinyan Liang**, Qian Guo, Yuhua Qian, Weiping Ding, Qingfu Zhang. Evolutionary deep fusion method and its application in chemical structure recognition. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2021,25(5):883-893.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [[Source Code](https://github.com/xinyanliang/EDFv0.1)]
 
