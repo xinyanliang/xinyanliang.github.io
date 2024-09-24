@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Shudong Huang"
+title                    : "Dr. Xinyan Liang"
 title_separator          : "-"
-name                     : &name "Shudong Huang"
+name                     : &name "Xinyan Liang"
 description              : &description "personal description"
 url                      : https://huangsd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shudong Huang"
+  name             : "Xinyan Liang"
   avatar           : "huangsd1.png"
-  bio              : "Associate Professor of Computer Science, Sichuan University"
-  location         : "Chengdu, China"
+  bio              : "Lecturer of Institute if Big Data Science and Industry, Shanxi University"
+  location         : "Taiyuan, China"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=shudong+huang"
-  googlescholar    : "https://scholar.google.com/citations?user=xa2bfaAAAAAJ&hl=en"
-  email            : "huangsd@scu.edu.cn"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=shudong+huang"
+  googlescholar    : "https://scholar.google.com/citations?user=4osycncAAAAJ&hl=zh-CN"
+  email            : "liangxinyan48@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huangsd"
+  github           : "xinyanliang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6848-5460"
+  orcid            : #"http://orcid.org/0000-0001-6848-5460"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
