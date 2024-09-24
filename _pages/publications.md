@@ -17,7 +17,7 @@ author_profile: true
 
 [2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep Incomplete Multi-View Learning Network with Insufficient Label Information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29189) [Source Code](https://github.com/ZhangqiJiang07/code DIMvLN)
 
-[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-Structures-Guided Multi-Modal Classification Neural Architecture Search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [Link](https://www.ijcai.org/proceedings/2024/0440.pdf)[Source Code] 
 
 [4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
