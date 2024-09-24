@@ -35,7 +35,7 @@ author_profile: true
 ## 2023 and before
 [1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[2] **Xinyan Liang**, Qian Guo, Yuhua Qian, Weiping Ding, Qingfu Zhang. Evolutionary deep fusion method and its application in chemical structure recognition. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2021,25(5):883-893.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code](https://github.com/xinyanliang/EDFv0.1)
+[2] **Xinyan Liang**, Qian Guo, Yuhua Qian, Weiping Ding, Qingfu Zhang. Evolutionary deep fusion method and its application in chemical structure recognition. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2021,25(5):883-893.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [[Source Code](https://github.com/xinyanliang/EDFv0.1)]
 
 [3] Yuhua Qian, **Xinyan Liang**, Qi Wang, Jiye Liang, Bing Liu, Andrzej Skowron, Yiyu Yao, Jianmin Ma, Chuangyin Dang. Local rough set: A solution to rough data analysis in big data. <i>International Journal of Approximate Reasoning (IJAR)<i>, 2018,97:38-63. (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
 
