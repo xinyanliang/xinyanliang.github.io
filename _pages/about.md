@@ -33,7 +33,7 @@ News
 
 Contacts
 ======
-*Address*: No.92 Xiaodian , Wucheng Road, Taiyuan 030006, China, \
+*Address*: No.92 Xiaodian District, Wucheng Road, Taiyuan 030006, China, \
 Institute of Big Data Science and Industry, Shanxi University\
 *Email*: liangxinyan48@163.com
 
