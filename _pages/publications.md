@@ -10,7 +10,7 @@ author_profile: true
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo. Improving Trusted Multi-View Classification via Evolutionary View Fusion
 
 ## 2025
-[1] Xinyan Liang, Yuhua Qian, Qian Guo, Keyin Zheng. A Data Representation Method Using Distance Correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
+[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A Data Representation Method Using Distance Correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-Conquer Neural Architecture Search for Multi-Modal Classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
@@ -49,15 +49,15 @@ author_profile: true
 
 [8] Qian Guo, Yuhua Qian, **Xinyan Liang**, Junyu Chen, Honghong Cheng. Multi-granulation multi-scale relation network for abstract reasoning. <i>International Journal of Machine Learning and Cybernetics(JMLC)<i>, 2022,13:1751–1762. 
 
-[9] Yan Chen, Qian Guo, **Xinyan Liang**, Jiang Wang, Yuhua Qian. Environmental sound classification with dilated convolutions. Applied Acoustics, 2019,148:123-132.
+[9] Yan Chen, Qian Guo, **Xinyan Liang**, Jiang Wang, Yuhua Qian. Environmental sound classification with dilated convolutions. <i>Applied Acoustics<i>, 2019,148:123-132.
 
-[10] Bassoma Diallo, Jie Hu, Tianrui Li, Ghufran Ahmad Khan, **Xinyan Liang**, Hongjun Wang. Auto-attention Mechanism for Multi-view Deep Embedding Clustering. Pattern Recognition (PR), 2023(143):109764.(<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
+[10] Bassoma Diallo, Jie Hu, Tianrui Li, Ghufran Ahmad Khan, **Xinyan Liang**, Hongjun Wang. Auto-attention Mechanism for Multi-view Deep Embedding Clustering. <i>Pattern Recognition (PR)<i>, 2023(143):109764.(<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] 
 
-[11] Qian Liu, Xia Zhang, **Xinyan Liang**, Yuhua Qian, Shanshan Yao，AWLloss: Speaker Verification Based on the Quality and Difficulty of Speech. IEEE Signal Processing Letters (SPL),2023(30):1337-1341.
+[11] Qian Liu, Xia Zhang, **Xinyan Liang**, Yuhua Qian, Shanshan Yao，AWLloss: Speaker Verification Based on the Quality and Difficulty of Speech. <i>IEEE Signal Processing Letters (SPL)<i>,2023(30):1337-1341.
 
-[12] **梁新彦**, 钱宇华, 郭倩, 黄琴. 多粒度融合驱动的超多视图分类方法. 计算机研究与发展, 2022, 59(8):1653-1667. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[12] **梁新彦**, 钱宇华, 郭倩, 黄琴. 多粒度融合驱动的超多视图分类方法. <i>计算机研究与发展<i>, 2022, 59(8):1653-1667. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[13] 张璐，曹峰，**梁新彦**, 钱宇华. 基于关联特征传播的跨模态检索. 计算机研究与发展, 2022, 59(9):1993-2002. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[13] 张璐，曹峰，**梁新彦**, 钱宇华. 基于关联特征传播的跨模态检索. <i>计算机研究与发展<i>, 2022, 59(9):1993-2002. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
 <!--
  2024, 38(14): 15258-15266.
