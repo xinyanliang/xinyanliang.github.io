@@ -35,7 +35,7 @@ author_profile: true
 
 [9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. IEEE Transactions on Big Data,2024.
 
-[10] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
+[10] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Scalable multi-view unsupervised feature selection with structure learning and fusion. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024, DOI: 10.1109/TCSVT.2024.3470996.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Link] [Source Code] 
 
 
 ## 2023 and before
