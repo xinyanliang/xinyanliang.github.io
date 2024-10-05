@@ -11,7 +11,7 @@ author_profile: true
 * 会议截稿时间查询
   * [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
     
-* 如何如何自己投稿期刊、会议
+* 如何选择自己投稿期刊、会议
   * [CCF推荐会议期刊](https://www.ccf.org.cn/Academic_Evaluation/AI/) 
   * [CSRankings](https://csrankings.org/#/index?all&us)
   * [Computer Science Conference Rankings](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
