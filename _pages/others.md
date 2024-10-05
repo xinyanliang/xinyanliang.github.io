@@ -8,7 +8,7 @@ author_profile: true
   * [IEEE模板选择器/IEEE template selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)
   * [Conference to IEEE TPAMI](https://www.computer.org/csdl/journal/tp/write-for-us/15083?title=Author%20Information&periodical=IEEE%20Transactions%20on%20Pattern%20Analysis%20%26%20Machine%20Intelligence)
     
-* Deadlines of conferences related to artificial intelligence (including machine learning, computer vision, data mining, computer graphics, robotics, NLP, etc.)
+* 会议截稿时间查询
   * [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM)
     
 * How to evaluate papers in top computer science conferences? For reference purpose, there are some reasonable public CS conference ranking lists:
