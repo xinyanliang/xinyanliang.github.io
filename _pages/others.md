@@ -11,5 +11,9 @@ author_profile: true
   * [Ref.2](https://www.cs.jhu.edu/~taochen/SoC_Conference_Ranking.html)
   * [Ref.3](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
 
+* Submited Paper
+  * [IEEE template selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+  * [Conference to IEEE TPAMI](https://www.computer.org/csdl/journal/tp/write-for-us/15083?title=Author%20Information&periodical=IEEE%20Transactions%20on%20Pattern%20Analysis%20%26%20Machine%20Intelligence)
+  
 ## Something other
 
