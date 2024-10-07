@@ -25,7 +25,7 @@ author_profile: true
 
 [4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[5] Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024. (<span style="color: #FF0000">CCF-A Oral 录用率3.97%</span>) [Link] [Source Code] 
+[5] Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024. (<span style="color: #FF0000">CCF-A Oral 录用率4385=3.97%</span>) [Link] [Source Code] 
 
 [6] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Zhifang Wei, Wen Li. CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
