@@ -37,6 +37,7 @@ Contacts
 *Address*: No.92 Xiaodian District, Wucheng Road, Taiyuan 030006, China, \
 Institute of Big Data Science and Industry, Shanxi University\
 *Email*: liangxinyan48@163.com
+*WeChat：xinyan19890408
 
 
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
