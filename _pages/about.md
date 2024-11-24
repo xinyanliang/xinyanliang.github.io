@@ -20,6 +20,7 @@ I have broad interest in *Multimodal/view Learning*, *Signal Processing*, and th
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [11/2024] I have been invited to be a PC member for the CVPR 2025.
 - [10/2024] I have been invited to be a reviewer for Nature Communications!
 - [09/2024] One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Congrats to pinhan and all the collaborators!
 - [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
