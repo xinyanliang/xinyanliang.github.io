@@ -16,6 +16,8 @@ author_profile: true
   * [CSRankings](https://csrankings.org/#/index?all&us)
   * [Computer Science Conference Rankings](http://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html)
 
+* 新手入门
+ *[如何搜索和阅读一篇论文](https://github.com/JethroJames/How_to_Search_and_Read_a_Paper)
   
 ## Something other
 
