@@ -45,8 +45,8 @@ Professional Activity
   * International Conference on Machine Learning (ICML) 2025
   * International Conference on Learning Representations (ICLR) 2025
   * Conference on Neural Information Processing Systems (NeurIPS) 2024
-  * European Conference on Computer Vision (ECCV) 2022-2023
-  * International Conference on Computer Vision (ICCV) 2021-2023
+  <!-- -* European Conference on Computer Vision (ECCV) 2022-2023
+  * International Conference on Computer Vision (ICCV) 2021-2023-->
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2025
   * ACM International Conference on Multimedia (ACM MM) 2024
   * International Joint Conference on Artificial Intelligence (IJCAI) 2024
