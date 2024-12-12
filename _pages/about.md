@@ -49,6 +49,7 @@ Professional Activity
   * ACM International Conference on Multimedia (ACM MM) 2024
   * International Joint Conference on Artificial Intelligence (IJCAI) 2024
 * Selected Journal Reviewer:
+  * Nature Communications; 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
   * IEEE Transactions on Image Processing (TIP);
   * IEEE Transactions on Evolutionary Computation (TEVC);
