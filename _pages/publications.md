@@ -13,15 +13,17 @@ author_profile: true
 
 [3] Bingbing Jiang, Zihao Xu, Zidong Wang, Chenglong Zhang, **Xinyan Liang**, Yadi Wang, Weiguo Sheng, Weiping Ding. Scalable Semi-supervised learning with discriminative label propagation and correction. <i>IEEE Transactions on Systems, Man and Cybernetics: Systems<i> (Major revision).
 
-[4] **Xinyan Liang**, Li Lv, et al. View-Relation-Guided Multi-View Classification.
+[4] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. <i>IEEE Transactions on Fuzzy Systems<i>.
 
-[5] **Xinyan Liang**, Shijie Wang, et al. Trusted Multi-View Classification Constrained via Expert Knowledge.
+[5] **Xinyan Liang**, Li Lv, et al. View-Relation-Guided Multi-View Classification.
 
-[6] **Xinyan Liang**, Li Zhang, et al. Improving Signal Enhancement via Distilling from Multi-Teachers: A Fusion View.
+[6] **Xinyan Liang**, Shijie Wang, et al. Trusted Multi-View Classification Constrained via Expert Knowledge.
 
-[7] **Xinyan Liang**, Ruijie Sang, et al. Robust Signal Classification via Fuzzy Regularization.
+[7] **Xinyan Liang**, Li Zhang, et al. Improving Signal Enhancement via Distilling from Multi-Teachers: A Fusion View.
 
-[8] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
+[8] **Xinyan Liang**, Ruijie Sang, et al. Robust Signal Classification via Fuzzy Regularization.
+
+[9] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
 
 ## 2025
 [1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
