@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! [中文主页](https://dig.sxu.edu.cn/xwz/td/fjsfyjy/708d5076dfc0470e961f6b57ff917bed.html]) \
+Welcome to my homepage! [中文主页](https://dig.sxu.edu.cn/xwz/td/fjsfyjy/708d5076dfc0470e961f6b57ff917bed.htm) \
 I'm currently a Associate Professor with the Institute of Big Data Science and Industry, Shanxi University, Taiyuan, China.
 I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fortunate to be advised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/index.html). 
 
