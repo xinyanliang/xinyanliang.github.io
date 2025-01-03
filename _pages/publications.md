@@ -25,6 +25,8 @@ author_profile: true
 
 [9] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
 
+[10] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction
+
 ## 2025
 [1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [Link] [Source Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
