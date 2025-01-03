@@ -9,7 +9,7 @@ author_profile: true
 ## Manuscript/Preprints
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo. Improving trusted multi-view classification via evolutionary view fusion.
 
-[2] Zian Yuan, Yuhua Qian, **Xinyan Liang**, Keyin Zheng. Fudes: Fuzzy deep SVM. <i>IEEE Transactions on Fuzzy Systems<i>.
+[2] Zian Yuan, Yuhua Qian, **Xinyan Liang**, Keyin Zheng. Fudes: Fuzzy deep SVM. <i>IEEE Transactions on Fuzzy Systems<i>  (Major revision).
 
 [3] Bingbing Jiang, Zihao Xu, Zidong Wang, Chenglong Zhang, **Xinyan Liang**, Yadi Wang, Weiguo Sheng, Weiping Ding. Scalable Semi-supervised learning with discriminative label propagation and correction. <i>IEEE Transactions on Systems, Man and Cybernetics: Systems<i> (Major revision).
 
