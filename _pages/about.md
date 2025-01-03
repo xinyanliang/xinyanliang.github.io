@@ -24,6 +24,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [01/2025] I have been invited to be a reviewer for the IJCAI 2025.
 - [12/2024] I have been invited to be a reviewer for the ICML 2025.
 - [12/2024] Two papers were accepted by AAAI’25!
 - [11/2024] I have been invited to be a reviewer for the CVPR 2025.
@@ -51,7 +52,7 @@ Professional Activity
   * Conference on Neural Information Processing Systems (NeurIPS) 2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2025
   * ACM International Conference on Multimedia (ACM MM) 2024
-  * International Joint Conference on Artificial Intelligence (IJCAI) 2024
+  * International Joint Conference on Artificial Intelligence (IJCAI) 2025
 * Selected Journal Reviewer:
   * Nature Communications; 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
