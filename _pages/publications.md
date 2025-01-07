@@ -35,7 +35,7 @@ author_profile: true
 [3] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[Link] [Source Code] 
 
 ## 2024
-[1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Link](https://doi.org/10.1609/aaai.v38i12.29281)] [Source Code] 
+[1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[PDF](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code] (https://github.com/fupinhan123/AAAI_DC-NAS)]
 
 [2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep incomplete multi-view learning network with insufficient label information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/29189)] [[Source Code](https://github.com/ZhangqiJiang07/code\_DIMvLN)]
 
