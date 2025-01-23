@@ -7,32 +7,32 @@ author_profile: true
 *indicating the corresponding author \
 #indicating the co-first author
 ## Manuscript/Preprints
-[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo. Improving trusted multi-view classification via evolutionary view fusion.
+[1] Zian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou. Fudes: Fuzzy deep SVM. <i>IEEE Transactions on Fuzzy Systems<i>  (Major revision).
 
-[2] Zian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou. Fudes: Fuzzy deep SVM. <i>IEEE Transactions on Fuzzy Systems<i>  (Major revision).
+[2] Bingbing Jiang, Zihao Xu, Zidong Wang, Chenglong Zhang, **Xinyan Liang**, Yadi Wang, Weiguo Sheng, Weiping Ding. Scalable Semi-supervised learning with discriminative label propagation and correction. <i>IEEE Transactions on Systems, Man and Cybernetics: Systems<i> (Major revision).
 
-[3] Bingbing Jiang, Zihao Xu, Zidong Wang, Chenglong Zhang, **Xinyan Liang**, Yadi Wang, Weiguo Sheng, Weiping Ding. Scalable Semi-supervised learning with discriminative label propagation and correction. <i>IEEE Transactions on Systems, Man and Cybernetics: Systems<i> (Major revision).
+[3] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. <i>IEEE Transactions on Fuzzy Systems<i>.
 
-[4] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. <i>IEEE Transactions on Fuzzy Systems<i>.
+[4] **Xinyan Liang**, Li Lv, et al. View-Relation-Guided Multi-View Classification.
 
-[5] **Xinyan Liang**, Li Lv, et al. View-Relation-Guided Multi-View Classification.
+[5] **Xinyan Liang**, Shijie Wang, et al. Trusted Multi-View Classification Constrained via Expert Knowledge.
 
-[6] **Xinyan Liang**, Shijie Wang, et al. Trusted Multi-View Classification Constrained via Expert Knowledge.
+[6] **Xinyan Liang**, Li Zhang, et al. Improving Signal Enhancement via Distilling from Multi-Teachers: A Fusion View.
 
-[7] **Xinyan Liang**, Li Zhang, et al. Improving Signal Enhancement via Distilling from Multi-Teachers: A Fusion View.
+[7] **Xinyan Liang**, Ruijie Sang, et al. Robust Signal Classification via Fuzzy Regularization.
 
-[8] **Xinyan Liang**, Ruijie Sang, et al. Robust Signal Classification via Fuzzy Regularization.
+[8] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
 
-[9] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
-
-[10] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction
+[9] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction
 
 ## 2025
-[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
+[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-View fusion. <i> In: Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>,
 
-[2] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+[2] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
-[3] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+[3] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+
+[4] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
