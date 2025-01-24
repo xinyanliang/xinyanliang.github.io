@@ -16,7 +16,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 梁新彦，博士，副教授，山西大学“文瀛青年学者”人才计划（首批）。
 2022年6月博士毕业于山西大学计算机科学与技术专业，博士期间曾于2017-2018年赴香港大学从事研究助理的工作。2022年8月加入山西大学大数据科学与产业研究院。
 研究方向：多模态机器学习、信号处理及其在微波原子探测方面的应用。
-近年来在IEEE TPAMI、IEEE TEVC、IEEE TCSVT、PR、AAAI、IJCAI、ACM MM等国内外重要学术期刊、会议发表论文30余篇。
+近年来在IEEE TPAMI、IEEE TEVC、IEEE TCSVT、PR、ICLR、AAAI、IJCAI、ACM MM等国内外重要学术期刊、会议发表论文30余篇。
 主持军科委JCJQ重点项目课题、基金委重大项目子课题、基金委青年项目、山西省重大项目课题等多项。
 担任Nature Communications、IEEE TEVC、NeurIPS、ICML、ICLR、CVPR等多个国际期刊、会议的审稿人。
 
@@ -24,6 +24,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [01/2025] One paper was accepted by ICLR’25!
 - [01/2025] I have been invited to be a reviewer for the IJCAI 2025.
 - [12/2024] I have been invited to be a reviewer for the ICML 2025.
 - [12/2024] Two papers were accepted by AAAI’25!
