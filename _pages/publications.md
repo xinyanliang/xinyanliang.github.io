@@ -25,7 +25,7 @@ author_profile: true
 
 [9] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction.
 
-[10] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, X**Xinyan Liang**, 3D Portrait Stylization with Adaptive Semantic Editing Based on GAN Latent Code.
+[10] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang**, 3D Portrait Stylization with Adaptive Semantic Editing Based on GAN Latent Code. <i>Pattern Recognition (PR)<i>, 2023(143):109764.
 
 ## 2025
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-View fusion. <i> In: Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[Paper] [Code] 
