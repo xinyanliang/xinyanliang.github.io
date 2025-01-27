@@ -26,7 +26,7 @@ author_profile: true
 [9] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction
 
 ## 2025
-[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-View fusion. <i> In: Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[Paper] [Code] 
+[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-View fusion. <i> In: Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[Paper] [Code] 
 
 [2] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
