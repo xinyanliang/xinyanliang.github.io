@@ -7,7 +7,7 @@ author_profile: true
 
 Multimodal/view Learning(多模态机器学习)
 ------
-* Pinhan Fu(与钱宇华教授共同指导) &#8194;2022-2025 IJCAI-24, ACM MM-24, AAAI-24, ICLR-25， IEEE TCSVT, 国家一等奖学金24
+* 傅品翰(与钱宇华教授共同指导) &#8194;2022-2025 IJCAI-24, ACM MM-24, AAAI-24, ICLR-25， IEEE TCSVT, 国家一等奖学金24
 * 吕立&#8194;2024- IJCAI-25在投
 * 李帅&#8194;2024-2027
 
