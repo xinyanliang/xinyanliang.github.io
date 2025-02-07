@@ -24,9 +24,6 @@ Signal Enhancement, Recognition(信号增强、识别)
 * 徐&#8195;柯&#8194;2024-2027
 
 
-* 
-Alumni:
-------
 
   <!--
 &#160; 空一格
