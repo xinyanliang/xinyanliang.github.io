@@ -32,9 +32,11 @@ author_profile: true
 
 [2] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
-[3] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+[3] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Multi-scale features are effective for multi-modal classification: An architecture search viewpoint. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2025,35(2):1070-1083.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/10700772)] [Code] 
 
-[4] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+[4] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
+
+[5] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[Paper] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
@@ -55,7 +57,6 @@ author_profile: true
 
 [9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. IEEE Transactions on Big Data,2024.
 
-[10] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Multi-scale features are effective for multi-modal classification: An architecture search viewpoint. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2024, DOI: 10.1109/TCSVT.2024.3470996.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/10700772)] [Code] 
 
 
 ## 2023 and before
