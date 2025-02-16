@@ -57,7 +57,7 @@ Professional Activity
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2025
   * ACM International Conference on Multimedia (ACM MM) 2024
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025
-  * Conference on Knowledge Discovery and Data Mining (ACM KDD) 2025
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
 * Selected Journal Reviewer:
   * Nature Communications; 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
