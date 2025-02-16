@@ -24,6 +24,8 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [01/2025] I have been invited to be a reviewer for the KDD 2025.
+- [01/2025] I have been invited to be a reviewer for the ICCV 2025.
 - [01/2025] One paper was accepted by ICLR’25!
 - [01/2025] I have been invited to be a reviewer for the IJCAI 2025.
 - [12/2024] I have been invited to be a reviewer for the ICML 2025.
@@ -48,12 +50,14 @@ Professional Activity
 
 * Program Committee Member:
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+  * International Conference on Computer Vision (ICCV) 2025
   * International Conference on Machine Learning (ICML) 2025
   * International Conference on Learning Representations (ICLR) 2025
   * Conference on Neural Information Processing Systems (NeurIPS) 2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2025
   * ACM International Conference on Multimedia (ACM MM) 2024
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025
+  * Conference on Knowledge Discovery and Data Mining (ACM KDD) 2025
 * Selected Journal Reviewer:
   * Nature Communications; 
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
