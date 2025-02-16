@@ -55,7 +55,7 @@ Professional Activity
   * International Conference on Learning Representations (ICLR) 2025
   * Conference on Neural Information Processing Systems (NeurIPS) 2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2025
-  * ACM International Conference on Multimedia (ACM MM) 2024
+  * ACM International Conference on Multimedia (ACM MM) 2024-2025
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
 * Selected Journal Reviewer:
