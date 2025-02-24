@@ -6,26 +6,8 @@ author_profile: true
 ---
 *indicating the corresponding author \
 #indicating the co-first author
-## Manuscript/Preprints
-[1] Zian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou. Fudes: Fuzzy deep SVM. <i>IEEE Transactions on Fuzzy Systems<i>  (Major revision).
 
-[2] Bingbing Jiang, Zihao Xu, Zidong Wang, Chenglong Zhang, **Xinyan Liang**, Yadi Wang, Weiguo Sheng, Weiping Ding. Scalable Semi-supervised learning with discriminative label propagation and correction. <i>IEEE Transactions on Systems, Man and Cybernetics: Systems<i> (Major revision).
 
-[3] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. <i>IEEE Transactions on Fuzzy Systems<i>.
-
-[4] **Xinyan Liang**, Li Lv, et al. View-Relation-Guided Multi-View Classification.
-
-[5] **Xinyan Liang**, Shijie Wang, et al. Trusted Multi-View Classification Constrained via Expert Knowledge.
-
-[6] **Xinyan Liang**, Li Zhang, et al. Improving Signal Enhancement via Distilling from Multi-Teachers: A Fusion View.
-
-[7] **Xinyan Liang**, Ruijie Sang, et al. Robust Signal Classification via Fuzzy Regularization.
-
-[8] Shijie Wang, **Xinyan Liang**, et al. An Association-based Fusion Method for Speech Enhancement.
-
-[9] Qian Guo, Shiwu Sun, **Xinyan Liang**, et al. Evolutionary Multi-View Fusion Method for Image Sequence Logic Prediction.
-
-[10] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang**, 3D Portrait Stylization with Adaptive Semantic Editing Based on GAN Latent Code. <i>Pattern Recognition (PR)<i>, 2023(143):109764.
 
 ## 2025
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. <i> In: Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[Paper] [Code] 
