@@ -25,7 +25,7 @@ author_profile: true
 
 [2] Zhangqi Jiang, Tingjin Luo, **Xinyan Liang**. Deep incomplete multi-view learning network with insufficient label information. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(11): 12919-12927. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29189)] [[Code](https://github.com/ZhangqiJiang07/code\_DIMvLN)]
 
-[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-structures-guided multi-modal classification neural architecture search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://www.ijcai.org/proceedings/2024/0440.pdf)] [Code] 
+[3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-structures-guided multi-modal classification neural architecture search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://www.ijcai.org/proceedings/2024/0440.pdf)] [[Code](https://github.com/fupinhan123/CSG-NAS)] 
 
 [4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
