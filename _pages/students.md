@@ -4,12 +4,11 @@ title: "Graduate Students"
 permalink: /students/
 author_profile: true
 ---
-
 +表示在投
 
 Multimodal/view Learning(多模态机器学习)
 ------
-* 傅品翰 &#8194;2022-2025 IJCAI-24, ACM MM-24, AAAI-24, ICLR-25，IEEE TCSVT, 国家一等奖学金24  (与钱宇华教授共同指导)
+* 傅品翰&#8194;2022-2025 IJCAI-24, ACM MM-24, AAAI-24, ICLR-25，IEEE TCSVT, 国家一等奖学金24  (与钱宇华教授共同指导)
 * 孙时武&#8194;2023-2026 IJCAI-25+, IEEE TETCI+
 * 吕&#8195;立&#8194;2024-2027 IJCAI-25+
 * 李&#8195;帅&#8194;2024-2027
