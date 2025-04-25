@@ -19,21 +19,15 @@ author_profile: true
 [4] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025,39(17):17617-17625. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33937)] [Code] 
 
 [5] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
+
 <!--
 [6] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
 [7] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
 [8] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
 [9] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
 [10] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
-
 [10] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. 	
 Robust Automatic Modulation Classification with Fuzzy Regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-
 [10] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted Multi-View Classification with Expert Knowledge Constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
 -->
 
