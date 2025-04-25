@@ -20,6 +20,16 @@ author_profile: true
 
 [5] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
+[6] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. <i> In: Proceedings of the XX<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper](] [Code]
+
+[7] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. <i> In: Proceedings of the XX<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper](] [Code]
+
+[8] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. <i> In: Proceedings of the XX<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper](] [Code]
+
+[9] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. <i> In: Proceedings of the XX<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper](] [Code]
+
+[10] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. <i> In: Proceedings of the XX<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper](] [Code]
+
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
 
