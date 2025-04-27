@@ -20,7 +20,7 @@ author_profile: true
 
 [5] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
-
+<!--
 [6] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
 
 [7] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
@@ -35,7 +35,7 @@ author_profile: true
 Robust Automatic Modulation Classification with Fuzzy Regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
 
 [12] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted Multi-View Classification with Expert Knowledge Constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000"></span>)[[Paper]] [Code]
-<!---->
+-->
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
