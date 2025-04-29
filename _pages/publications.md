@@ -16,7 +16,7 @@ author_profile: true
 
 [3] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Multi-scale features are effective for multi-modal classification: An architecture search viewpoint. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2025,35(2):1070-1083.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/10700772)] [Code] 
 
-[4] Bingbing Jiang, Chenglong Zhang(通讯), **Xinyan Liang**(通讯), Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025,39(17):17617-17625. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33937)] [Code] 
+[4] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang**(通讯), Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025,39(17):17617-17625. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33937)] [Code] 
 
 [5] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
@@ -27,7 +27,7 @@ author_profile: true
 
 [8] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**(通讯), Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
 
-[9] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**(通讯), Bingbing Jiang(通讯). Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[9] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**(通讯), Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
 
 [10] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
 
@@ -47,7 +47,7 @@ Robust Automatic Modulation Classification with Fuzzy Regularization. In: <i>Pro
 
 [4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
 
-[5] Qian Guo, **Xinyan Liang**(通讯), Yuhua Qian(通讯), Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:429-437. (<span style="color: #FF0000">CCF-A Oral 录用率4385=3.97%</span>) [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681437)][Code] 
+[5] Qian Guo, **Xinyan Liang**(通讯), Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:429-437. (<span style="color: #FF0000">CCF-A Oral 录用率4385=3.97%</span>) [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681437)][Code] 
 
 [6] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Zhifang Wei, Wen Li. CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:9126-9135. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681351)] [Code] 
 
