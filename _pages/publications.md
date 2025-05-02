@@ -28,15 +28,15 @@ author_profile: true
 [8] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
 
-[9] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[9] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[10] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[10] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[11] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**(通讯), Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[11] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**(通讯), Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[12] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**(通讯), Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[12] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang**(通讯), Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>, 19.3%)[[Paper]] [Code]
+[13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
 <!--
 
