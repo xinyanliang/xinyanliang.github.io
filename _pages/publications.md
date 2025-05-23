@@ -14,7 +14,7 @@ author_profile: true
 
 [2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [Code]
 
-[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [Code]
+[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
 [4] Jieting Wang, Zelong Zhang, Fijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [Code]
 
