@@ -16,7 +16,7 @@ author_profile: true
 
 [3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
-[4] Jieting Wang, Zelong Zhang, Fijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [Code]
+[4] Jieting Wang, Zelong Zhang, Fijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
 
 [5] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
