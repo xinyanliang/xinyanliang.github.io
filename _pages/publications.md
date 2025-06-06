@@ -38,7 +38,7 @@ author_profile: true
 
 [13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[14] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper]()] [Code] 
+[14] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
 <!--
 
