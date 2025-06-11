@@ -13,12 +13,12 @@ I'm currently a Associate Professor with the Institute of Big Data Science and I
 I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fortunate to be advised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/index.html). 
 
 
-梁新彦，博士，副教授，山西省领军人才，山西大学“文瀛青年学者”人才计划（首批）。
+梁新彦，博士，副教授，山西省领军人才，山西大学“文瀛青年学者”人才计划（首批），曾获山西省优秀博士论文奖。
 2022年6月博士毕业于山西大学计算机科学与技术专业，博士期间曾于2017-2018年赴香港大学从事研究助理的工作。2022年8月加入山西大学大数据科学与产业研究院。
 研究方向：多模态机器学习、信号处理及其在微波原子探测方面的应用。
 近年来在IEEE TPAMI、IEEE TEVC、IEEE TCSVT、IEEE TFS、ICLR、ICML、AAAI、IJCAI、ACM MM等国内外重要学术期刊、会议发表论文40余篇。
-主持JKWJCJQ重点类项目、基金委重大项目子课题、基金委青年项目、山西省重大项目课题4项。
-担任Nature Communications、IEEE TEVC、NeurIPS、ICML、ICLR、CVPR等多个国际期刊、会议的审稿人。
+主持JKW重点类项目、基金委重大项目子课题、基金委青年项目、山西省重大项目课题4项。
+担任Nature Communications、IEEE TPAMI、NeurIPS、ICML、ICLR、CVPR等多个国际期刊、会议的审稿人。
 
 
 
