@@ -26,8 +26,8 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 
 News
 ------
-- <span style="color: #FF0000">I'm always looking for highly motivated Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
-- [05/2025] One paper was accepted by IEEE TFS!
+- <span style="color: #FF0000">I'm always looking for highly motivated PhD and Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
+- [05/2025] Two paper were accepted by IEEE TFS!
 - [05/2025] Three papers were accepted by ICML’25!
 - [05/2025] Five papers were accepted by IJCAI’25!
 - [01/2025] I have been invited to be a reviewer for the KDD 2025.
