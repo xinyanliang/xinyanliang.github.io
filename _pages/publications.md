@@ -38,9 +38,11 @@ author_profile: true
 
 [13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[14] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+[14] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A Pixel-Adaptive Swarm Dynamics Approach for Unsupervised Low-Light Image Enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, %</span>)[[Paper]] [Code]
 
-[15] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+[15] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+
+[16] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
