@@ -44,7 +44,7 @@ author_profile: true
 
 [16] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
-[17] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang**(通讯). 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+[17] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang**(通讯). 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
