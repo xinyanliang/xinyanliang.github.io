@@ -31,23 +31,12 @@ News
 - [05/2025] Two paper were accepted by IEEE TFS!
 - [05/2025] Three papers were accepted by ICML’25!
 - [05/2025] Five papers were accepted by IJCAI’25!
-- [01/2025] I have been invited to be a reviewer for the KDD 2025.
-- [01/2025] I have been invited to be a reviewer for the ICCV 2025.
 - [01/2025] One paper was accepted by ICLR’25!
-- [01/2025] I have been invited to be a reviewer for the IJCAI 2025.
-- [12/2024] I have been invited to be a reviewer for the ICML 2025.
 - [12/2024] Two papers were accepted by AAAI’25!
-- [11/2024] I have been invited to be a reviewer for the CVPR 2025.
-- [10/2024] I have been invited to be a reviewer for Nature Communications!
-- [09/2024] One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Congrats to pinhan and all the collaborators!
-- [08/2024] I have been invited to be a PC member for the 13th International Conference on Learning Representations (ICLR'25).
-- [07/2024] Three papers were accepted by ACM MM'24. Congrats to all the collaborators!
-- [06/2024] I have been invited to be a PC member for the 39th AAAI Conference on Artificial Intelligence (AAAI’25).
-- [05/2024] I have been invited to be a PC member for the 38th Annual Conference on Neural Information Processing Systems (NeurIPS’24).
-- [04/2024] Two papers were accepted by IJCAI’24. Congrats to all the collaborators!
-- [01/2024] I have been invited to be a PC member for the 32nd ACM International Conference on Multimedia (ACM MM’24).
-- [12/2023] Two paper was accepted by AAAI’24. Congrats to Pinhan, Zhangqi and all the collaborators!
-- [07/2023] I have been invited to be a PC member for the 38th AAAI Conference on Artificial Intelligence (AAAI’24).
+- [09/2024] One paper was accepted by IEEE TCSVT!
+- [07/2024] Three papers were accepted by ACM MM'24!
+- [04/2024] Two papers were accepted by IJCAI’24!
+- [12/2023] Two paper was accepted by AAAI’24!
 - ...
 
 
@@ -85,6 +74,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
