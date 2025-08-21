@@ -27,7 +27,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 News
 ------
 - <span style="color: #FF0000">I'm always looking for highly motivated PhD and Master students to conduct frontier research in our team. If interested, please drop me an email with your full CV and a research plan releated to my research interest.</span>
-- [06/2025] One paper was accepted by ICCV and one paper was accepted by PR!
+- [06/2025] Two paper were accepted by ICCV and PR, respectively!
 - [05/2025] Two paper were accepted by IEEE TFS!
 - [05/2025] Three papers were accepted by ICML’25!
 - [05/2025] Five papers were accepted by IJCAI’25!
@@ -74,6 +74,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
