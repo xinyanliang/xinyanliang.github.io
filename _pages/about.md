@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage! [中文主页](https://dig.sxu.edu.cn/xwz/td/fjsfyjy/708d5076dfc0470e961f6b57ff917bed.html) \
 I'm currently a Associate Professor with the Institute of Big Data Science and Industry, Shanxi University, Taiyuan, China.
-I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fortunate to be advised by Prof. [Yuhua Qian](http://dig.sxu.edu.cn/qyh/index.html). 
+I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fortunate to be advised by Prof. [Yuhua Qian （钱宇华）](http://dig.sxu.edu.cn/qyh/index.html). 
 
 
 梁新彦，山西大学大数据科学与产业研究院副教授、博士生导师，入选山西省领军人才，山西大学“文瀛青年学者”。
@@ -58,6 +58,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
