@@ -12,9 +12,9 @@ author_profile: true
 ## 2025
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)] 
 
-[2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [[Code](https://github.com/xinyanliang/FR-AMC)]
+[2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=DDIGCk25BO)] [[Code](https://github.com/ruijiesang/FR-AMC)]
 
-[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper]] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
+[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=U64wEbM7NB)] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
 [4] Jieting Wang, Zelong Zhang, Fijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
@@ -97,5 +97,6 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
