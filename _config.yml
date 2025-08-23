@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyan Liang"
   avatar           : "lxy.jpg"
-  bio              : "Lecturer of Institute of Big Data Science and Industry, Shanxi University"
+  bio              : "Associate Professor of Institute of Big Data Science and Industry, Shanxi University"
   location         : "Taiyuan, China"
   employer         :
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=shudong+huang"
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
