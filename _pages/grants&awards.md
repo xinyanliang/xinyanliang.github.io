@@ -18,6 +18,7 @@ author_profile: true
 ## 获奖
 * 梁新彦，山西省优秀博士论文奖, 山西省教育厅, 2022
 * 山西大学“文瀛青年学者”人才计划(首批)，2024
+* 梁新彦，ACM 太原分会“新星奖”，ACM 中国理事, 2024
 
 ## 报告
 * 梁新彦，多模态数据融合理论与方法,中国粒计算与知识发现学术会议, 青海西宁, 2022-8-15至2022-8-17 (CGCKD大会青年学者论坛特邀报告)
@@ -32,4 +33,5 @@ author_profile: true
   * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
   Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
   -->
+
 
