@@ -17,7 +17,7 @@ author_profile: true
 
 研究生
 ------
-* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博; 成绩：IJCAI'24, ACM MM'24, AAAI'24, ICLR'25，IEEE TCSVT, 国家奖学金, 一等奖学金*2
+* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)）; 成绩：IJCAI'24, ACM MM'24, AAAI'24, ICLR'25，IEEE TCSVT, 国家奖学金, 一等奖学金*2
 * 张成龙&#8194;2022-2025 毕业去向：南京大学读博; 成绩：发表CCF A会议论文4篇，（AAAI'25*2, IJCAI'24, ACMMM'24）
 * 张&#8195;力&#8194;2023-2026 硕博连读
 * 汪世杰&#8194;2023-2026 IJCAI'25, ICML'25, NeurIPS'25+, 一等奖学金
@@ -39,3 +39,4 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
