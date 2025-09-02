@@ -28,7 +28,7 @@ author_profile: true
 [8] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang**, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
 
-[9] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
+[9] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/liwuya/AssoDMVC)]
 
 [10] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang**(通讯). An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/jie019/AFSE_IJCAI2025)]
 
@@ -97,6 +97,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
