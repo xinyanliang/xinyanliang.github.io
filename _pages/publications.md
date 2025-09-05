@@ -44,7 +44,7 @@ author_profile: true
 
 [15] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(8):2663-2674.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
-[16] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+[16] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(9):3047-3060.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11150476)] [Code] 
 
 [17] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
@@ -99,6 +99,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
