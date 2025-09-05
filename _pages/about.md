@@ -22,11 +22,16 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 担任中国图象图形学学会（CSIG）视觉大数据专委会委员。担任Nature Communications、IEEE TPAMI、NeurIPS、ICML、ICLR、CVPR等多个国际期刊、会议的审稿人。
 
 
+News
+------
+* 2025/9 I was invited the Area Chair for ICLR 2026.
 
 
 
 Professional Activity
 ------
+* Area Chair:
+  * International Conference on Learning Representations (ICLR) 2026
 
 * Program Committee Member:
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
@@ -58,6 +63,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
