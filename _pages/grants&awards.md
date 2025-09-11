@@ -24,6 +24,7 @@ author_profile: true
 ## 报告
 * 梁新彦，多模态数据融合理论与方法,中国粒计算与知识发现学术会议, 青海西宁, 2022-8-15至2022-8-17 (CGCKD大会青年学者论坛特邀报告)
 * 梁新彦，关联学习驱动下的多模态数据融合方法介绍, 中国粒计算与知识发现学术会议, 江苏连云港, 2024-7-23至2024-7-26 (CGCKD大会“基于粒计算的机器学习前沿理论，方法与应用”讲习班特邀讲者)
+* 梁新彦，演化多模态融合，CSIG青年科学家会议，山东青岛，2025-9-18至2025-9-21（[图像融合论坛](https://mp.weixin.qq.com/s/giTuz_gWF4nMhWadwvZNLg)）
 
 ## 专利
 * 梁新彦，郭倩，钱宇华，朱哲清，彭甫镕. 一种基于演化计算多视图融合的分子结构图检索方法. 国家发明专利，授权号：ZL202010666319.3，授权时间：2022.5.31
@@ -34,6 +35,7 @@ author_profile: true
   * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
   Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
   -->
+
 
 
 
