@@ -19,7 +19,7 @@ author_profile: true
 
 硕士生
 ------
-* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25, ICML'25】</span> AAAI26+, ICLR'26+ <span style="color: #0000FF">【一等奖学金】</span>
+* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> AAAI26+, ICLR'26+ <span style="color: #0000FF">【一等奖学金】</span>
 * 桑瑞杰&#8194;2023-2026 <span style="color: #FF9700">【ICML'25】</span> <span style="color: #0000FF">【一等奖学金】</span>
 * 孙时武&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25】</span>  IEEE TETCI+
 * 李东宁&#8194;2023-2026 IF
@@ -41,7 +41,7 @@ author_profile: true
 
 毕业学生
 ------
-* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)） <span style="color: #FF9700">【IJCAI'24, ACM MM'24, AAAI'24, ICLR'25, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
+* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)） <span style="color: #FF9700">【ICLR'25, IJCAI'24, ACM MM'24, AAAI'24, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
 * 张成龙&#8194;2022-2025 毕业去向：南京大学读博（导师：李华雄） <span style="color: #FF9700">【AAAI'25*2, IJCAI'24, ACMMM'24, IEEE TFS】</span> <span style="color: #FF0000">【国家奖学金】</span>
 * 贾祥崇&#8194;2022-2025 <span style="color: #FF9700">【PR】</span>
 
@@ -52,6 +52,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
