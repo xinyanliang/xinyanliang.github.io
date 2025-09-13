@@ -4,7 +4,7 @@ title: "Graduate Students"
 permalink: /students/
 author_profile: true
 ---
-+表示在投
+<span style="color: #FF9700">【X】</span>表示已录用; X+表示再投
 
 
 博士后
@@ -52,6 +52,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
