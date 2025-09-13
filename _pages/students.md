@@ -34,15 +34,15 @@ author_profile: true
 
 本科生
 ------
-* 姜璋琪&#8194;2019-2023 毕业去向：国防科大硕士; <span style="color: #FF9700">【AAAI'24】</span>
+* 姜璋琪&#8194;2019-2023 毕业去向：国防科大硕士（导师：罗廷金） <span style="color: #FF9700">【AAAI'24】</span>
 * 刘泳亨&#8194;2023-2027
 * 宋凯翔&#8194;2023-2027
 
 
 毕业学生
 ------
-* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)）; <span style="color: #FF9700">【IJCAI'24, ACM MM'24, AAAI'24, ICLR'25, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
-* 张成龙&#8194;2022-2025 毕业去向：南京大学读博; <span style="color: #FF9700">【AAAI'25*2, IJCAI'24, ACMMM'24, IEEE TFS】</span> <span style="color: #FF0000">【国家奖学金】</span>
+* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)） <span style="color: #FF9700">【IJCAI'24, ACM MM'24, AAAI'24, ICLR'25, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
+* 张成龙&#8194;2022-2025 毕业去向：南京大学读博（导师：李华雄） <span style="color: #FF9700">【AAAI'25*2, IJCAI'24, ACMMM'24, IEEE TFS】</span> <span style="color: #FF0000">【国家奖学金】</span>
 * 贾祥崇&#8194;2022-2025 <span style="color: #FF9700">【PR】</span>
 
 
@@ -52,6 +52,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
