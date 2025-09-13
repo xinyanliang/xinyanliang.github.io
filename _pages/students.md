@@ -21,8 +21,8 @@ author_profile: true
 ------
 * [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25, ICML'25】</span> AAAI26+, ICLR'26+ <span style="color: #0000FF">【一等奖学金】</span>
 * 桑瑞杰&#8194;2023-2026 <span style="color: #FF9700">【ICML'25】</span> <span style="color: #0000FF">【一等奖学金】</span>
-* 李东宁&#8194;2023-2026 IF
 * 孙时武&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25】</span>  IEEE TETCI+
+* 李东宁&#8194;2023-2026 IF
 * 李&#8195;帅&#8194;2024-2027 NeurIPS'25+, IEEE TPAMI+
 * 徐&#8195;柯&#8194;2024-2027
 * 苏全琛&#8194;2024-2027 IEEE TIP+
@@ -52,6 +52,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
