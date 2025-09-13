@@ -15,7 +15,7 @@ author_profile: true
 ------
 * 金子堒&#8194;2023-2027 <span style="color: #FF9700">【IJCAI'25】</span> AAAI'26+ <span style="color: #0000FF">【一等奖学金】</span>
 * 张&#8195;力&#8194;2025-2029 AAAI'26+
-* 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25】</span>, AAAI'26+
+* 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25】</span> AAAI'26+
 
 硕士生
 ------
@@ -52,6 +52,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
