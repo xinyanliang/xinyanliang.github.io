@@ -10,6 +10,8 @@ author_profile: true
 ## preprint
 [1] Shijie Wang, Li Zhang, **Xinyan Liang***, Yuhua Qian, Shen Hu. Balanced multimodal learning: An unidirectional dynamic interaction perspective. [[arxiv](https://arxiv.org/abs/2509.02281)]
 
+[2] **Xinyan Liang***, Shuai Li, Qian Guo, Yuhua Qian, Jiye Liang. Boosting evolutionary multi-view learning by accurately evaluating individuals.
+
 
 ## 2025
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)] 
@@ -99,6 +101,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
