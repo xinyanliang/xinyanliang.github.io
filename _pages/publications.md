@@ -12,6 +12,9 @@ author_profile: true
 
 [2] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Jiye Liang. Boosting evolutionary multi-view learning by accurately evaluating individuals.
 
+[3] Qian Guo, Quancheng Su, **Xinyan Liang***, Yuhua Qian*, Erliang Yao. Multi-branch tree-based fusion neural architecture search with adaptive weighting and zero-cost evaluation.
+
+
 
 ## 2025
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)] 
@@ -101,6 +104,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
