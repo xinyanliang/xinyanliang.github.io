@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## 2025
-[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] 【[Code](https://github.com/fupinhan123/TEF)】
+[1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)]
 
 [2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=DDIGCk25BO)] [[Code](https://github.com/ruijiesang/FR-AMC)]
 
@@ -104,6 +104,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
