@@ -17,41 +17,47 @@ author_profile: true
 
 
 ## 2025
+
+
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)]
 
 [2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=DDIGCk25BO)] [[Code](https://github.com/ruijiesang/FR-AMC)]
 
 [3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=U64wEbM7NB)] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
-[4] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
+[4] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Evolutionary multi-view classification via eliminating individual fitness bias. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight</span>)[[Paper]()] [[Code]()]
+
+[5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [[Code]()]
+
+[6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
 
-[5] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
+[7] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
-[6] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Multi-scale features are effective for multi-modal classification: An architecture search viewpoint. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2025,35(2):1070-1083.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/10700772)] [Code] 
+[8] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Yayu Zhang, Qin Huang. Multi-scale features are effective for multi-modal classification: An architecture search viewpoint. <i>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)<i>, 2025,35(2):1070-1083.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/10700772)] [Code] 
 
-[7] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang***, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025,39(17):17617-17625. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33937)] [Code] 
+[9] Bingbing Jiang, Chenglong Zhang, **Xinyan Liang***, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative similarity fusion and consistency recovery for incomplete multi-view clustering. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>,2025,39(17):17617-17625. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33937)] [Code] 
 
-[8] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang***, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
+[10] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang***, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
 
-[9] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/liwuya/AssoDMVC)]
+[11] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/liwuya/AssoDMVC)]
 
-[10] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang***. An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/jie019/AFSE_IJCAI2025)]
+[12] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang***. An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/jie019/AFSE_IJCAI2025)]
 
-[11] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/blueHsky/IJCAI2025-KS-NAS)]
+[13] Zhihua Cui, Shiwu Sun, Qian Guo, **Xinyan Liang**, Yuhua Qian, Zhixia Zhang. A fast neural architecture search method for multi-modal classification via Knowledge Sharing. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [[Code](https://github.com/blueHsky/IJCAI2025-KS-NAS)]
 
-[12] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang***, Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
+[14] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang***, Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
+[15] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
 
-[14] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, %</span>)[[Paper]] [Code]
+[16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, %</span>)[[Paper]] [Code]
 
-[15] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(8):2663-2674.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
+[17] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(8):2663-2674.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
-[16] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(9):3047-3060.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11150476)] [Code] 
+[18] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(9):3047-3060.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11150476)] [Code] 
 
-[17] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
+[19] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
@@ -104,6 +110,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
