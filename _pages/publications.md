@@ -25,9 +25,9 @@ author_profile: true
 
 [3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=U64wEbM7NB)] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
-[4] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Evolutionary multi-view classification via eliminating individual fitness bias. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,688/21575=3.2%</span>)[[Paper]()] [[Code]()]
+[4] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Evolutionary multi-view classification via eliminating individual fitness bias. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,688/21575=3.19%</span>)[[Paper]()] [[Code]()]
 
-[5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster</span>)[[Paper]()] [[Code]()]
+[5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,24.52%</span>)[[Paper]()] [[Code]()]
 
 [6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
@@ -110,6 +110,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
