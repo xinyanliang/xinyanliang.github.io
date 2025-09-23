@@ -51,7 +51,7 @@ author_profile: true
 
 [14] Jie Yang, Wei Chen, Feng Liu, Peng Zhou, Zhongli Wang, **Xinyan Liang***, Bingbing Jiang. Multi-view clustering via multi-granularity ensemble. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:6794-6802. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/756)] [Code]
 
-[15] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:5508-5516. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper]] [Code]
+[15] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:5508-5516. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/613)] [Code]
 
 [16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, %</span>)[[Paper]] [Code]
 
@@ -112,6 +112,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
