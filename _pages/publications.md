@@ -53,7 +53,7 @@ author_profile: true
 
 [15] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:5508-5516. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/613)] [Code]
 
-[16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, %</span>)[[Paper](https://iccv.thecvf.com/virtual/2025/poster/1050)] [Code]
+[16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 24%</span>)[[Paper](https://iccv.thecvf.com/virtual/2025/poster/1050)] [Code]
 
 [17] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(8):2663-2674.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
@@ -112,6 +112,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
