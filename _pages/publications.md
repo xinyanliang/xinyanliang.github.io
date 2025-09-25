@@ -10,11 +10,6 @@ author_profile: true
 ## preprint
 [1] Shijie Wang, Li Zhang, **Xinyan Liang***, Yuhua Qian, Shen Hu. Balanced multimodal learning: An unidirectional dynamic interaction perspective. [[arxiv](https://arxiv.org/abs/2509.02281)]
 
-[2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification.
-
-[3] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Jiye Liang. Boosting evolutionary multi-view learning by accurately evaluating individuals.
-
-[4] Qian Guo, Quancheng Su, **Xinyan Liang***, Yuhua Qian*, Erliang Yao. Multi-branch tree-based fusion neural architecture search with adaptive weighting and zero-cost evaluation.
 
 
 
@@ -112,6 +107,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
