@@ -24,7 +24,7 @@ author_profile: true
 
 [4] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Evolutionary multi-view classification via eliminating individual fitness bias. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,688/21575=3.19%</span>)[[Paper](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC/blob/main/NIPS25.pdf)] [[Code](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)]
 
-[5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,24.52%</span>)[[Paper]()] [Code]
+[5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,24.52%</span>)[[Paper](https://arxiv.org/pdf/2509.15955)] [[Code](https://github.com/ZhangqiJiang07/AGF_TI)]
 
 [6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
@@ -107,6 +107,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
