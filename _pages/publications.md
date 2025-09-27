@@ -80,35 +80,36 @@ author_profile: true
 
 
 ## 2023 and before
-[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [Paper] [Code] 
+[1] **Xinyan Liang**, Yuhua Qian, Qian Guo, Honghong Cheng, Jiye Liang. AF: An association-based fusion method for multi-modal classification. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2022,44(12): 9236-9254.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/9609548)] [Code] 
 
-[2] **Xinyan Liang**, Qian Guo, Yuhua Qian, Weiping Ding, Qingfu Zhang. Evolutionary deep fusion method and its application in chemical structure recognition. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2021,25(5):883-893.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Paper] [[Code](https://github.com/xinyanliang/EDFv0.1)]
+[2] **Xinyan Liang**, Qian Guo, Yuhua Qian, Weiping Ding, Qingfu Zhang. Evolutionary deep fusion method and its application in chemical structure recognition. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2021,25(5):883-893.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/9373673)] [[Code](https://github.com/xinyanliang/EDFv0.1)]
 
-[3] Yuhua Qian, **Xinyan Liang**, Qi Wang, Jiye Liang, Bing Liu, Andrzej Skowron, Yiyu Yao, Jianmin Ma, Chuangyin Dang. Local rough set: A solution to rough data analysis in big data. <i>International Journal of Approximate Reasoning (IJAR)<i>, 2018,97:38-63. (<span style="color: #FF0000">CCF-B</span>) [Paper] [Code] 
+[3] Yuhua Qian, **Xinyan Liang**, Qi Wang, Jiye Liang, Bing Liu, Andrzej Skowron, Yiyu Yao, Jianmin Ma, Chuangyin Dang. Local rough set: A solution to rough data analysis in big data. <i>International Journal of Approximate Reasoning (IJAR)<i>, 2018,97:38-63. (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0888613X17304826)] [Code] 
 
-[4] Yuhua Qian, **Xinyan Liang**, Guoping Lin, Qian Guo, Jiye Liang. Local multigranulation decision-theoretic rough sets. <i>International Journal of Approximate Reasoning(IJAR)<i>, 2017,82:119-137. (<span style="color: #FF0000">CCF-B</span>) [Paper] [Code] 
+[4] Yuhua Qian, **Xinyan Liang**, Guoping Lin, Qian Guo, Jiye Liang. Local multigranulation decision-theoretic rough sets. <i>International Journal of Approximate Reasoning(IJAR)<i>, 2017,82:119-137. (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0888613X16303206)] [Code] 
 
-[5] Qi Wang, Yuhua Qian, **Xinyan Liang**, Qian Guo, Jiye Liang. Local neighborhood rough set. <i>Knowledge-Based Systems(KBS)<i>, 2018,153:53-64. (<span style="color: #FF0000">SCI一区</span>) [Paper] [Code] 
+[5] Qi Wang, Yuhua Qian, **Xinyan Liang**, Qian Guo, Jiye Liang. Local neighborhood rough set. <i>Knowledge-Based Systems(KBS)<i>, 2018,153:53-64. (<span style="color: #FF0000">SCI一区</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705118301886)] [Code] 
 
-[6] Qian Guo, Yuhua Qian, **Xinyan Liang**. GLRM: Logical pattern mining in the case of inconsistent data distribution based on multigranulation strategy. <i>International Journal of Approximate Reasoning(IJAR)<i>, 2022,143:78-101. (<span style="color: #FF0000">CCF-B</span>) [Paper] [Code] 
+[6] Qian Guo, Yuhua Qian, **Xinyan Liang**. GLRM: Logical pattern mining in the case of inconsistent data distribution based on multigranulation strategy. <i>International Journal of Approximate Reasoning(IJAR)<i>, 2022,143:78-101. (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0888613X22000056)] [Code] 
 
-[7] Qian Guo, Yuhua Qian, **Xinyan Liang**, Yanhong She, Deyu Li, Jiye Liang. Logic could be learned from images. <i>International Journal of Machine Learning and Cybernetics(JMLC)<i>, 2021,12:3397–3414. 
+[7] Qian Guo, Yuhua Qian, **Xinyan Liang**, Yanhong She, Deyu Li, Jiye Liang. Logic could be learned from images. <i>International Journal of Machine Learning and Cybernetics(JMLC)<i>, 2021,12:3397–3414.  [[Paper](https://link.springer.com/article/10.1007/s13042-021-01366-w)] [Code] 
 
-[8] Qian Guo, Yuhua Qian, **Xinyan Liang**, Junyu Chen, Honghong Cheng. Multi-granulation multi-scale relation network for abstract reasoning. <i>International Journal of Machine Learning and Cybernetics(JMLC)<i>, 2022,13:1751–1762. 
+[8] Qian Guo, Yuhua Qian, **Xinyan Liang**, Junyu Chen, Honghong Cheng. Multi-granulation multi-scale relation network for abstract reasoning. <i>International Journal of Machine Learning and Cybernetics(JMLC)<i>, 2022,13:1751–1762.  [[Paper](https://link.springer.com/article/10.1007/s13042-021-01484-5)] [Code] 
 
-[9] Yan Chen, Qian Guo, **Xinyan Liang**, Jiang Wang, Yuhua Qian. Environmental sound classification with dilated convolutions. <i>Applied Acoustics<i>, 2019,148:123-132.
+[9] Yan Chen, Qian Guo, **Xinyan Liang**, Jiang Wang, Yuhua Qian. Environmental sound classification with dilated convolutions. <i>Applied Acoustics<i>, 2019,148:123-132. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0003682X18306121)] [Code] 
 
-[10] Bassoma Diallo, Jie Hu, Tianrui Li, Ghufran Ahmad Khan, **Xinyan Liang**, Hongjun Wang. Auto-attention mechanism for multi-view deep embedding clustering. <i>Pattern Recognition (PR)<i>, 2023(143):109764.(<span style="color: #FF0000">CCF-B</span>) [Paper] [Code] 
+[10] Bassoma Diallo, Jie Hu, Tianrui Li, Ghufran Ahmad Khan, **Xinyan Liang**, Hongjun Wang. Auto-attention mechanism for multi-view deep embedding clustering. <i>Pattern Recognition (PR)<i>, 2023(143):109764.(<span style="color: #FF0000">CCF-B</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004624)] [Code] 
 
-[11] Qian Liu, Xia Zhang, **Xinyan Liang**, Yuhua Qian, Shanshan Yao，AWLloss: Speaker verification based on the quality and difficulty of speech. <i>IEEE Signal Processing Letters (SPL)<i>,2023(30):1337-1341.
+[11] Qian Liu, Xia Zhang, **Xinyan Liang**, Yuhua Qian, Shanshan Yao. AWLloss: Speaker verification based on the quality and difficulty of speech. <i>IEEE Signal Processing Letters (SPL)<i>, 2023(30):1337-1341. [[Paper](https://ieeexplore.ieee.org/document/10246987)] [Code] 
 
-[12] **梁新彦**, 钱宇华, 郭倩, 黄琴. 多粒度融合驱动的超多视图分类方法. <i>计算机研究与发展<i>, 2022, 59(8):1653-1667. (<span style="color: #FF0000">CCF-A</span>) [Paper] [Code] 
+[12] **梁新彦**, 钱宇华, 郭倩, 黄琴. 多粒度融合驱动的超多视图分类方法. <i>计算机研究与发展<i>, 2022, 59(8):1653-1667. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.20211112)] [Code] 
 
-[13] 张璐，曹峰，**梁新彦**, 钱宇华. 基于关联特征传播的跨模态检索. <i>计算机研究与发展<i>, 2022, 59(9):1993-2002. (<span style="color: #FF0000">CCF-A</span>) [Paper] [Code] 
+[13] 张璐，曹峰，**梁新彦**, 钱宇华. 基于关联特征传播的跨模态检索. <i>计算机研究与发展<i>, 2022, 59(9):1993-2002. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://qikan.cqvip.com/Qikan/Article/Detail?id=7107984001)] [Code] 
 
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
