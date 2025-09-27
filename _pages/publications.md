@@ -56,6 +56,8 @@ author_profile: true
 
 [19] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
+[20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)<i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
+
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
 
@@ -63,17 +65,17 @@ author_profile: true
 
 [3] Pinhan Fu, **Xinyan Liang**, Tingjin Luo, Qian Guo, Yayu Zhang, Yuhua Qian. Core-structures-guided multi-modal classification neural architecture search,  In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:3980-3988. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://www.ijcai.org/proceedings/2024/0440.pdf)] [[Code](https://github.com/fupinhan123/CSG-NAS)] 
 
-[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [Link] [Source Code] 
+[4] Chenglong Zhang, Yang Fang, **Xinyan Liang**, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient multi-view unsupervised feature selection with adaptive structure learning and inference. In: <i>Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI-24)<i>,2024:5443-5452. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://www.ijcai.org/proceedings/2024/602)] [Code] 
 
 [5] Qian Guo, **Xinyan Liang***, Yuhua Qian, Zhihua Cui, Jie Wen. A progressive skip reasoning fusion method for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:429-437. (<span style="color: #FF0000">CCF-A Oral 录用率4385=3.97%</span>) [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681437)][Code] 
 
 [6] Pinhan Fu, **Xinyan Liang**, Yuhua Qian, Qian Guo, Zhifang Wei, Wen Li. CoMO-NAS: Core-structures-guided multi-objective neural architecture search for multi-modal classification. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:9126-9135. (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681351)] [Code] 
 
-[7] Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable multi-view unsupervised feature selection with structure learning and fusion. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:5479-5488.  (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://maestro.acm.org/trk/clickp?ref=z16l2snue3_2-316ea_0x33ae25x03444&doi=3664647.3681223)] [Code](https://github.com/fupinhan123/CSG-NAS)
+[7] Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable multi-view unsupervised feature selection with structure learning and fusion. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:5479-5488.  (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://maestro.acm.org/trk/clickp?ref=z16l2snue3_2-316ea_0x33ae25x03444&doi=3664647.3681223)] [Code]
 
-[8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [Paper] [Code] 
+[8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/abstract/document/10114675)] [Code] 
 
-[9] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. IEEE Transactions on Big Data,2024.
+
 
 
 
@@ -107,6 +109,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
