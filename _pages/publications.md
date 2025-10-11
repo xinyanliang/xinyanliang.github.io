@@ -18,15 +18,15 @@ author_profile: true
 
 [1] **Xinyan Liang**, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu. Trusted multi-view classification via evolutionary multi-view fusion. In: <i>Proceedings of the 13th International Conference on Learning Representations (ICLR)<i>, 2025. Singapore EXPO, Apr. 24-28, 2025,1-14. (<span style="color: #FF0000">机器学习三大顶会之一</span>)[[Paper](https://openreview.net/forum?id=M3kBtqpys5)] [[Code](https://github.com/fupinhan123/TEF)]
 
-[2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=DDIGCk25BO)] [[Code](https://github.com/ruijiesang/FR-AMC)]
+[2] **Xinyan Liang**, Ruijie Sang, Yuhua Qian, Qian Guo, Feijiang Li, Liang Du. Robust automatic modulation classification with fuzzy regularization. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025,267:37396-37408. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=DDIGCk25BO)] [[Code](https://github.com/ruijiesang/FR-AMC)]
 
-[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=U64wEbM7NB)] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
+[3] **Xinyan Liang**, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li. Trusted multi-view classification with expert knowledge constraints. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025,267:37409-37426. (<span style="color: #FF0000">CCF-A, spotlight,2.6%</span>)[[Paper](https://openreview.net/pdf?id=U64wEbM7NB)] [[Code](https://github.com/jie019/TMCEK_ICML2025)]
 
 [4] **Xinyan Liang**, Shuai Li, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Evolutionary multi-view classification via eliminating individual fitness bias. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, spotlight,688/21575=3.19%</span>)[[Paper](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC/blob/main/NIPS25.pdf)] [[Code](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)]
 
 [5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,24.52%</span>)[[Paper](https://arxiv.org/pdf/2509.15955)] [[Code](https://github.com/ZhangqiJiang07/AGF_TI)]
 
-[6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
+[6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025,267:65655-65686. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
 
 [7] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
@@ -109,6 +109,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
