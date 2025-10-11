@@ -15,15 +15,15 @@ author_profile: true
 ------
 * 金子堒&#8194;2023-2027 <span style="color: #FF9700">【IJCAI'25】</span> AAAI'26+ <span style="color: #0000FF">【一等奖学金】</span>
 * 张&#8195;力&#8194;2025-2029 AAAI'26+
-* 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25】</span> AAAI'26+
+* 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25】</span> AAAI'26+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 
 硕士生
 ------
-* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> AAAI26+, ICLR'26+ <span style="color: #0000FF">【一等奖学金】</span>
+* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> AAAI26+, ICLR'26+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 * 桑瑞杰&#8194;2023-2026 <span style="color: #FF9700">【ICML'25】</span> <span style="color: #0000FF">【一等奖学金】</span>
 * 孙时武&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25】</span>  IEEE TETCI+
 * 李东宁&#8194;2023-2026 IF
-* 李&#8195;帅&#8194;2024-2027 <span style="color: #FF9700">【NeurIPS'25】</span> IEEE TPAMI+
+* 李&#8195;帅&#8194;2024-2027 <span style="color: #FF9700">【NeurIPS'25】</span> IEEE TPAMI+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 * 徐&#8195;柯&#8194;2024-2027 IEEE TIFS+
 * 苏全琛&#8194;2024-2027 IEEE TIP+
 * 杨凯艳&#8194;2025-2028
@@ -54,6 +54,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
