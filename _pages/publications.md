@@ -57,7 +57,7 @@ author_profile: true
 
 [20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)</i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
 
-[21] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View neural architecture search method for image sequence logic prediction. <i> IEEE Transactions ON Emerging Topics in Computational Intelligence (IEEE TETCI)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
+[21] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
@@ -110,6 +110,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
