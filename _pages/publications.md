@@ -37,7 +37,6 @@ author_profile: true
 
 [10] Zhongli Wang, Jie Yang, Junyi Guan, Chenglong Zhang, **Xinyan Liang***, Bingbing Jiang, Weiguo Sheng. Enhanced denesity peak clustering for high-dimensional data. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-25)<i>, 2025,39(20):21411-21419. (<span style="color: #FF0000">CCF-A</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35442)] [Code] 
 
-
 [11] **Xinyan Liang**, Li Lv, Qian Guo, Bingbing Jiang, Feijiang Li, Liang Du, Lu Chen. View-association-guided dynamic multi-view classification. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:5680-5688. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/632)] [[Code](https://github.com/liwuya/AssoDMVC)]
 
 [12] Shijie Wang, Qian Guo, Lu Chen, Liang Du, Zikun Jin, Zhiyan Yuan, **Xinyan Liang***. An association-based fusion method for speech enhancement. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:6406-6414. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/713)] [[Code](https://github.com/jie019/AFSE_IJCAI2025)]
@@ -56,7 +55,9 @@ author_profile: true
 
 [19] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
-[20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)<i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
+[20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)</i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
+
+[21] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View Neural Architecture Search Method for Image Sequence Logic Prediction. <i> IEEE Transactions ON Emerging Topics in Computational Intelligence</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
 
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
@@ -109,6 +110,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
