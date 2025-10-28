@@ -59,6 +59,8 @@ author_profile: true
 
 [21] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
 
+[22] Lu Chen, Haofan Yang, **Xinyan Liang**, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code]  
+
 ## 2024
 [1] **Xinyan Liang**, Pinhan Fu, Qian Guo, Keyin Zheng, Yuhua Qian. DC-NAS: Divide-and-conquer neural architecture search for multi-modal classification. In: <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)<i>, 2024,38(12):13754-13762. Vancouver, Canada, Feb. 20-27, 2024 (<span style="color: #FF0000">CCF-A Oral</span>) [[Paper](https://doi.org/10.1609/aaai.v38i12.29281)] [[Code](https://github.com/fupinhan123/AAAI_DC-NAS)]
 
@@ -75,6 +77,7 @@ author_profile: true
 [7] Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable multi-view unsupervised feature selection with structure learning and fusion. In: <i>Proceedings of the 32nd ACM MULTIMEDIA 2024 (ACM MM-24)<i>, 2024. Melbourne, Australia, 28 October-1 November, 2024:5479-5488.  (<span style="color: #FF0000">CCF-A</span>) [[Paper](https://maestro.acm.org/trk/clickp?ref=z16l2snue3_2-316ea_0x33ae25x03444&doi=3664647.3681223)] [Code]
 
 [8] Yayu Zhang, Yuhua Qian, Guoshuai Ma, **Xinyan Liang**, Guoqing Liu, Qingfu Zhang, Ke Tang. ESSR: Evolving sparse sharing representation for multi-task learning. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i>, 2024,28(3):748-762.  (<span style="color: #FF0000">CCF-B, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/abstract/document/10114675)] [Code] 
+
 
 
 
@@ -110,6 +113,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
