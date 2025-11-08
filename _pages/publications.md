@@ -17,7 +17,7 @@ author_profile: true
 
 [2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
 
-[3] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, </span>)[[Paper]()] [Code] 
+[3] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A </span>)[[Paper]()] [Code] 
 
 [4] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code] 
 
@@ -122,6 +122,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
