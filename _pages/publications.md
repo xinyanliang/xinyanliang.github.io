@@ -11,6 +11,15 @@ author_profile: true
 [1] Shijie Wang, Li Zhang, **Xinyan Liang***, Yuhua Qian, Shen Hu. Balanced multimodal learning: An unidirectional dynamic interaction perspective. [[arxiv](https://arxiv.org/abs/2509.02281)]
 
 
+## 2026
+
+[1] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
+
+[2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
+
+[3] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, </span>)[[Paper]()] [Code] 
+
+[4] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code] 
 
 
 ## 2025
@@ -47,7 +56,7 @@ author_profile: true
 
 [15] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Haijun Geng. A multi-view fusion approach for enhancing speech signals via short-time fractional fourier transform. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-25)<i>, 2025:5508-5516. (<span style="color: #FF0000">CCF-A, 19.3%</span>)[[Paper](https://www.ijcai.org/proceedings/2025/613)] [Code]
 
-[16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, 24%</span>)[[Paper](https://iccv.thecvf.com/virtual/2025/poster/1050)] [Code]
+[16] Shuai Jin, Yuhua Qian, Feijiang Li, Guoqing Liu, **Xinyan Liang**. PASD: A pixel-adaptive swarm dynamics approach for unsupervised low-light image enhancement. In: <i>Proceedings of the International Conference on Computer Vision  (ICCV-25)<i>, 2025:9070-9079. (<span style="color: #FF0000">CCF-A, 24%</span>)[[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_PASD_A_Pixel-Adaptive_Swarm_Dynamics_Approach_for_Unsupervised_Low-Light_Image_ICCV_2025_paper.html)] [Code]
 
 [17] Zhian Yuan, Yuhua Qian, **Xinyan Liang**, Yi Kou, Chenping Hou, Qinghua Hu. FASTEN: Fuzzy neural support vector machine for classification. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(8):2663-2674.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11016779)] [Code] 
 
@@ -113,6 +122,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
