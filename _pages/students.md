@@ -14,12 +14,12 @@ author_profile: true
 博士生
 ------
 * 金子琨&#8194;2023-2027 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span>  <span style="color: #0000FF">【一等奖学金】</span>
-* 张&#8195;力&#8194;2025-2029 <span style="color: #FF9700">【AAAI'26】</span> 
+* 张&#8195;力&#8194;2025-2029 <span style="color: #FF9700">【AAAI'26】</span> PR+
 * 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span><span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 
 硕士生
 ------
-* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> TPAMI, ICLR'26+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
+* [汪世杰](jie019.github.io)&#8194;2023-2026 <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> TPAMI+, ICLR'26+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 * 桑瑞杰&#8194;2023-2026 <span style="color: #FF9700">【ICML'25】</span> <span style="color: #0000FF">【一等奖学金】</span>
 * 孙时武&#8194;2023-2026 <span style="color: #FF9700">【IJCAI'25, IEEE TETCI】</span> 
 * 李东宁&#8194;2023-2026 IF
@@ -55,6 +55,7 @@ author_profile: true
 &#8195; 空四格
 注意：不要漏掉分号
 -->
+
 
 
 
