@@ -21,9 +21,9 @@ author_profile: true
 
 [4] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A </span>)[[Paper]()] [Code] 
 
-[5] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
+[5] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-View neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i>, doi:10.1109/TETCI.2025.3631720 (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code] 
 
-[6] Lu Chen, Haofan Yang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i> (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code]  
+[6] Lu Chen, Haofan Yang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper]()] [Code]  
 
 
 ## 2025
@@ -123,6 +123,7 @@ author_profile: true
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
