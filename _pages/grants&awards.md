@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 项目
 * 国家自然科学基金重大项目，智能原子微波探测理论与方法，2025.01-2029.12，1500万，子课题负责人
-* 国家级纵向课题，微波微波信号增强与识别，2024.08-2027.08，351万，主持
+* 国家级纵向课题，微波信号增强与识别，2024.08-2027.08，351万，主持
 * 国家自然科学基金青年项目，特征关联语义下的多模态表征融合机理与方法研究（62306171），2024.01-2026.12，30万，主持
 * 山西省科技厅, 山西省科技重大专项计划“揭榜挂帅”项目课题, 面向复杂电磁大数据的多模态知识挖掘技术（202201020101006）, 2023.01-2025.12, 140万元, 主持
 * [智能算法安全全国重点实验室2025年度开放课题](https://mp.weixin.qq.com/s/9h9pAL3E7M0W6PtD769_lw)，互联网多模态内容深度理解, 2025.09-2027.09, 10万, 主持
@@ -36,6 +36,7 @@ author_profile: true
   * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
   Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
   -->
+
 
 
 
