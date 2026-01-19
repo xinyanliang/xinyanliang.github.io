@@ -13,25 +13,24 @@ author_profile: true
 
 ## 2026
 
-[1] 王志达,燕阳,徐新异,沙威, **梁新彦**,元晋鹏,汪丽蓉,肖连团,贾锁堂. 	
-Receiving Amplitude-Phase Shift Keying Signals in Microwave Fields with a Rydberg Atomic Receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000"></span>)[[Paper]()] 
+[1] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
 
-[2] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
-Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] 
+[2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [[Code](https://github.com/lvli-rise/UVF)] 
 
-[3] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
+[3] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
-[4] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [[Code](https://github.com/lvli-rise/UVF)] 
+[4] 王志达,燕阳,徐新异,沙威, **梁新彦**,元晋鹏,汪丽蓉,肖连团,贾锁堂. Receiving Amplitude-Phase Shift Keying Signals in Microwave Fields with a Rydberg Atomic Receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000"></span>)[[Paper]()] 
 
-[5] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code]
+[5] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-view neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i>, doi:10.1109/TETCI.2025.3631720 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11262275)] [Code] 
 
 [6] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A </span>)[[Paper]()] [Code] 
 
-[7] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-view neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i>, doi:10.1109/TETCI.2025.3631720 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11262275)] [Code] 
+[7] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code]
 
-[8] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
+[8] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
+Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] 
 
-[9] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive Feature Enhancement for  Low-light Object Detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper]()] [Code] 
+[9] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper]()] [Code] 
 
 
 
@@ -133,6 +132,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
