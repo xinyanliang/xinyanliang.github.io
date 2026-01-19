@@ -19,7 +19,7 @@ author_profile: true
 
 [3] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
-[4] 王志达,燕阳,徐新异,沙威, **梁新彦**,元晋鹏,汪丽蓉,肖连团,贾锁堂. Receiving Amplitude-Phase Shift Keying Signals in Microwave Fields with a Rydberg Atomic Receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000"></span>)[[Paper]()] 
+[4] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, Xinyan Liang, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving Amplitude-Phase Shift Keying Signals in Microwave Fields with a Rydberg Atomic Receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000"></span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
 [5] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-view neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i>, doi:10.1109/TETCI.2025.3631720 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11262275)] [Code] 
 
@@ -132,6 +132,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
