@@ -26,7 +26,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 
 联系人：吕立（微信：lvli_rise）
 * 博士招生方向
-  * 计算机科学与技术专业：机器学习与数据挖
+  * 计算机科学与技术专业：机器学习与数据挖掘
   * 光量子技术与器件全国重点实验室：量子精密测量与传感
 * 硕士招生方向
   * 专硕
@@ -72,6 +72,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
