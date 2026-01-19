@@ -23,6 +23,7 @@ I obtained my Ph.D. degree from Shanxi University in 2022, where I was very fort
 
 
 <span style="color: #FF0000">2026级招生：可分别依托计算机科学与技术专业和光量子技术与器件全国重点实验室招收招收机器学习与数据挖方向与量子精密测量与传感方向的博士。
+</br>
 博士指标(0812计算机科学与技术; 0702物理学)【1】人，已招【1】人；硕士指标【4】人，已招【2】人。联系人：吕立（微信：lvli_rise）</span>
 
 
@@ -62,6 +63,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
