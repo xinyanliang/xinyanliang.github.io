@@ -31,6 +31,8 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [8] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
+[9] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive Feature Enhancement for  Low-light Object Detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper]()] [Code] 
+
 
 
 
@@ -131,6 +133,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
