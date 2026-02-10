@@ -32,7 +32,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [9] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
-[10] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [Code] 
+[10] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [Code] 
 
 
 
@@ -135,6 +135,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
