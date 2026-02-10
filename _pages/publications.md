@@ -30,7 +30,9 @@ author_profile: true
 [8] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
 Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] 
 
-[9] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [Code] 
+[9] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
+
+[10] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [Code] 
 
 
 
@@ -76,11 +78,9 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [18] Bingbing Jiang, Chenglong Zhang, Zhongli Wang, **Xinyan Liang**, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu. Scalable fuzzy clustering with collaborative structure learning and preservation. <i>IEEE Transactions on Fuzzy Systems(TFS)<i>, 2025,33(9):3047-3060.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11150476)] [Code] 
 
-[19] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
+[19] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)</i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
 
-[20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)</i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
-
-[21] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. MCSAF: Modality-common and-specific representations for multimodal medical image alignment and fusion. In: <i>2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)<i>, 2025:6479-6486. (<span style="color: #FF0000">CCF-B, Oral</span>)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11356984)] [Code] 
+[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. MCSAF: Modality-common and-specific representations for multimodal medical image alignment and fusion. In: <i>2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)<i>, 2025:6479-6486. (<span style="color: #FF0000">CCF-B, Oral</span>)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11356984)] [Code] 
 
 
 ## 2024
@@ -135,6 +135,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
