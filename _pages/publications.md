@@ -35,6 +35,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 
 
+
 ## 2025
 
 
@@ -78,6 +79,8 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 [19] Yantao Song, Xiangchong Jia, Jieru Jia, Yudong Liang, **Xinyan Liang***. 3D portrait stylization with adaptive semantic editing based on GAN latent codes. <i>Pattern Recognition(PR)<i>, 2026,171:112069.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007290?dgcid=author)] [Code] 
 
 [20] Tao Li, Yuhua Qian, Feijiang Li, **Xinyan Liang**, Zhi-hui Zhan. Feature subspace learning-based binary differential evolution algorithm for unsupervised feature selection. <i>IEEE Transactions on Big Data (IEEE TBD)</i>,2025,11(1): 99-114.(<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/10473134)] [Code] 
+
+[21] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. MCSAF: Modality-common and-specific representations for multimodal medical image alignment and fusion. In: <i>2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM-25)<i>, 2025:6479-6484. (<span style="color: #FF0000">CCF-B, Oral</span>)[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11356984)] [Code] 
 
 
 ## 2024
@@ -132,6 +135,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
