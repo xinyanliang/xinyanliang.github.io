@@ -28,6 +28,8 @@ author_profile: true
 * 梁新彦，多模态数据融合理论与方法,中国粒计算与知识发现学术会议, 青海西宁, 2022-8-15至2022-8-17 (CGCKD大会青年学者论坛特邀报告)
 
 ## 专利
+* 李东宁，梁新彦，钱宇华，张润发，元晋鹏，郭倩. 一种基于进化神经架构搜索的多视图融合的信号分类方法. 国家发明专利，申请号：202511816477.1
+* 桑瑞杰，梁新彦，钱宇华. 一种基于粒球几何纠偏与深度特征互补的双流鲁棒信号分类方法. 国家发明专利，申请号：
 * 梁新彦，郭倩，钱宇华，朱哲清，彭甫镕. 一种基于演化计算多视图融合的分子结构图检索方法. 国家发明专利，授权号：ZL202010666319.3，授权时间：2022.5.31
 * 郭倩，钱宇华，梁新彦. 一种基于逻辑学习的多图检索方法. 国家发明专利，授权号：ZL202110337481.5，授权时间：2022.11.11
 
@@ -36,6 +38,7 @@ author_profile: true
   * Outstanding Graduate Student in Sichuan Province, Sichuan Province, 2020.
   Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, 2020.
   -->
+
 
 
 
