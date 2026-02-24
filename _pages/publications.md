@@ -17,7 +17,7 @@ author_profile: true
 
 [2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [[Code](https://github.com/lvli-rise/UVF)] 
 
-[3] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, doi:10.1109/TASE.2025.3630002 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
+[3] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, 2026,23:3877-3888 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
 [4] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, **Xinyan Liang**, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving amplitude-phase Shift keying signals in microwave fields with a Rydberg atomic receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000">交叉</span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
@@ -135,6 +135,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 <!--
  2024, 38(14): 15258-15266.
 -->
+
 
 
 
