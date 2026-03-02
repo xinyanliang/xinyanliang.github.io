@@ -52,7 +52,7 @@ Professional Activity
   * International Conference on Learning Representations (ICLR) 2025
   * Conference on Neural Information Processing Systems (NeurIPS) 2024
   * AAAI Conference on Artificial Intelligence (AAAI) 2024-2026
-  * ACM International Conference on Multimedia (ACM MM) 2024-2025
+  * ACM International Conference on Multimedia (ACM MM) 2024-2026
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025-2026
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2025
 * Selected Journal Reviewer:
@@ -75,6 +75,7 @@ Institute of Big Data Science and Industry, Shanxi University\
 <!-- - [04/2024] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
 
 <!-- - [05/2022] 受邀担任[国家自然科学基金委](https://www.nsfc.gov.cn/)基金评审人. -->
+
 
 
 
