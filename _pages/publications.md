@@ -23,7 +23,7 @@ author_profile: true
 
 [5] Qian Guo, Shiwu Sun, **Xinyan Liang**, Yuhua Qian, Zhihua Cui. LogicNAS: Multi-view neural architecture search method for image sequence logic prediction. <i> IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)</i>, doi:10.1109/TETCI.2025.3631720 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11262275)] [Code] 
 
-[6] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A </span>)[[Paper]()] [Code] 
+[6] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqian Zhang, Jinpeng Yuan, Shen Hu, Haijun Geng. Signal enhancement via multi-view dynamic representation and alignment-aware fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(27),22454-22462. (<span style="color: #FF0000">CCF-A </span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39404)] [Code] 
 
 [7] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code]
 
