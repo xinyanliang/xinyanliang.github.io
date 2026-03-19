@@ -13,9 +13,9 @@ author_profile: true
 
 ## 2026
 
-[1] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [Code] 
+[1] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(33),28292-28300. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40057)] [Code] 
 
-[2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] [[Code](https://github.com/lvli-rise/UVF)] 
+[2] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(29),24198-24206. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39599)] [[Code](https://github.com/lvli-rise/UVF)] 
 
 [3] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, 2026,23:3877-3888 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
