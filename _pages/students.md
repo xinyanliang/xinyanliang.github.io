@@ -13,7 +13,6 @@ author_profile: true
 
 博士生
 ------
-* 金子琨&#8194;2023-2027 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span>  <span style="color: #0000FF">【一等奖学金】</span>
 * 张&#8195;力&#8194;2025-2029 <span style="color: #FF9700">【AAAI'26】</span> PR+
 * 吕&#8195;立&#8194;2025-2029 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span><span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 
