@@ -42,6 +42,8 @@ He currently serves as a committee member of the Visual Big Data Technical Commi
 
 Professional Activity
 ------
+* Associate Editor:
+  * Pattern Recognition (一区TOP) 2026.04-至今
 * Area Chair:
   * International Conference on Learning Representations (ICLR) 2026
   * IEEE International Conference on Multimedia & Expo (ICME) 2026
