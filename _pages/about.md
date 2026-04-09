@@ -24,10 +24,10 @@ reviewer for Nature Communications, IEEE TPAMI, NeurIPS, ICML, ICLR, CVPR, and o
 2022年博士毕业于山西大学计算机科学与技术专业，2017—2018年赴香港大学物理系从事研究助理工作。2022年8月加入山西大学大数据科学与产业研究院。
 主要研究方向为人工智能、多模态机器学习、多源物理信号智能分析及其在量子精密测量与传感等前沿交叉领域的应用。近年来主持JKW重点类项目、国家自然科学基金重大项目子课题及青年项目、山西省重大项目课题、智能算法安全全国重点实验室开放课题和校级学科交叉建设项目等共8项。
 在 IEEE TPAMI、IEEE TEVC、IEEE TCSVT、IEEE TFS、IEEE SPL、Pattern Recognition、Chinese Physics B、FCS等国际权威期刊及 ICLR、ICML、NeurIPS、AAAI、IJCAI、SIGKDD、ICCV 等国际顶级会议发表论文50余篇，其中第一作者或通讯作者论文20余篇。曾获山西省优秀博士论文奖、ACM 太原分会“新星奖”。
-现任中国图象图形学学会（CSIG）视觉大数据专委会委员，并担任Pattern Recognition副主编，Nature Communications、IEEE TPAMI、NeurIPS、ICML、ICLR、CVPR 等国际期刊与会议审稿人。
+现任中国图象图形学学会（CSIG）视觉大数据专委会委员，并担任Pattern Recognition副编辑，Nature Communications、IEEE TPAMI、NeurIPS、ICML、ICLR、CVPR 等国际期刊与会议审稿人。
 
 
-<span style="color: #FF0000">2026级招生</span>
+<span style="color: #FF0000">2026级招生【注：本人属于Push型导师，所以，联系之前需要想清楚自己是否本课题组！】</span>
 
 联系人：吕立（微信：lvli_rise）
 * 博士招生方向
