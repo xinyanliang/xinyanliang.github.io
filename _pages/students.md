@@ -44,8 +44,8 @@ author_profile: true
 
 毕业学生
 ------
-* 傅品翰&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)） <span style="color: #FF9700">【ICLR'25, IJCAI'24, ACM MM'24, AAAI'24, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
-* 张成龙&#8194;2022-2025 毕业去向：南京大学读博（导师：李华雄） <span style="color: #FF9700">【AAAI'25*2, IJCAI'24, ACMMM'24, IEEE TFS】</span> <span style="color: #FF0000">【国家奖学金】</span>
+* [傅品翰](https://scholar.google.com/citations?hl=en&user=jsK0hcEAAAAJ)&#8194;2022-2025 毕业去向：武汉大学读博（导师：[叶芒](https://marswhu.github.io/index.html)） <span style="color: #FF9700">【ICLR'25, IJCAI'24, ACM MM'24, AAAI'24, IEEE TCSVT】</span> <span style="color: #FF0000">【国家奖学金】</span> <span style="color: #0000FF">【一等奖学金*2】</span>
+* [张成龙](https://scholar.google.com/citations?hl=en&user=FecGLOEAAAAJ)&#8194;2022-2025 毕业去向：南京大学读博（导师：李华雄） <span style="color: #FF9700">【AAAI'25*2, IJCAI'24, ACMMM'24, IEEE TFS】</span> <span style="color: #FF0000">【国家奖学金】</span>
 * 贾祥崇&#8194;2022-2025 <span style="color: #FF9700">【PR】</span>
 * [汪世杰](jie019.github.io)&#8194;2023-2026 毕业去向：南京大学读博（导师：[袁晓彤](https://is.nju.edu.cn/yxt/main.htm)） <span style="color: #FF9700">【ICML'25, IJCAI'25】</span> TPAMI+, TIP+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 * 桑瑞杰&#8194;2023-2026 毕业去向：[地平线](https://www.horizon.auto/) <span style="color: #FF9700">【ICML'25, 1专利】</span> <span style="color: #0000FF">【一等奖学金】</span>
