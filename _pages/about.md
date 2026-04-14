@@ -38,7 +38,7 @@ reviewer for Nature Communications, IEEE TPAMI, NeurIPS, ICML, ICLR, CVPR, and o
   * 学硕
 * 招生指标
   * 博士指标【1】人
-  * 硕士指标【4】人
+  * 硕士指标【3】人
 
 
 
