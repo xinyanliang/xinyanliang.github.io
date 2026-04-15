@@ -27,7 +27,7 @@ reviewer for Nature Communications, IEEE TPAMI, NeurIPS, ICML, ICLR, CVPR, and o
 现任中国图象图形学学会（CSIG）视觉大数据专委会委员，并担任Pattern Recognition副编辑，Nature Communications、IEEE TPAMI、NeurIPS、ICML、ICLR、CVPR 等国际期刊与会议审稿人。
 
 
-<span style="color: #FF0000">2026级招生【注：本课题组招生遵循“不唯分数，先来先得”的原则。目前基础偏弱，但刻苦努力（需向我证明你是个一直上进的人，比如学院型学校的同学通过了六级等）的同学加入！】</span>
+<span style="color: #FF0000">2026级招生【注：本课题组招生遵循“先来先得”的原则。目前基础偏弱，但刻苦努力（需证明你是个上进的人，比如学院型学校的同学通过了六级等）的同学加入！】</span>
 
 联系人：吕立（微信：lvli_rise）
 * 博士招生方向
