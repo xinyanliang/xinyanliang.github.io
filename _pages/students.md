@@ -18,9 +18,10 @@ author_profile: true
 
 硕士生
 ------
-* 李&#8195;帅&#8194;2024-2027 <span style="color: #FF9700">【NeurIPS'25】</span> TPAMI+, ICML26+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
+* 李&#8195;帅&#8194;2024-2027 <span style="color: #FF9700">【NeurIPS'25, ICML'26】</span> TPAMI+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 * 徐&#8195;柯&#8194;2024-2027 IEEE TIFS+
 * 苏全琛&#8194;2024-2027 IEEE TIP+
+* 左高辉&#8194;2024-2027 <span style="color: #FF9700">【ICML'26】</span>
 * 杨凯艳&#8194;2025-2028
 * 尹晓柱&#8194;2025-2028
 * 唐&#8195;鑫&#8194;2025-2028 <span style="color: #FF9700">【1专利】</span> IEEE TEVC+
