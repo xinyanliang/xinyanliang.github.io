@@ -36,7 +36,15 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [11] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [Code] 
 
+[12] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code]()]
 
+[13] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqiang Zhang, Haijun Geng. Robust signal enhancement via fractional detail views and knowledge guided multi-view fusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+
+[14] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+
+[15] Qian Guo, Gaohui Zuo, Bingbing Jiang, Guangrui Fan, ZHihua Cui, **Xinyan Liang**, Jianjian Ding. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+
+[16] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. (<span style="color: #FF0000"</span>)[[Paper]()] [[Code]()]
 
 
 
