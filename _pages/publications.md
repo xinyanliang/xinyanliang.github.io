@@ -44,7 +44,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [15] Qian Guo, Gaohui Zuo, Bingbing Jiang, Guangrui Fan, ZHihua Cui, **Xinyan Liang**, Jianjian Ding. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
 
-[16] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. (<span style="color: #FF0000"</span>)[[Paper]()] [[Code]()]
+[16] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 34rd International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. (<span style="color: #FF0000"></span>)[[Paper]()] [[Code]()]
 
 
 
