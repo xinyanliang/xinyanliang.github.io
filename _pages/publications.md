@@ -61,8 +61,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [5] Zhangqi Jiang, Tingjin Luo, Xu Yang, **Xinyan Liang**. Adversarial graph fusion for incomplete multi-view semi-supervised learning with tensorial imputation. In: <i>Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS-25)<i>, 2025. (<span style="color: #FF0000">CCF-A, poster,24.52%</span>)[[Paper](https://arxiv.org/pdf/2509.15955)] [[Code](https://github.com/ZhangqiJiang07/AGF_TI)]
 
-[6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025,267:65655-65686. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper]] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
-
+[6] Jieting Wang, Zelong Zhang, Feijiang Li, Yuhua Qian, **Xinyan Liang**. Stabilizing sample similarity in representation via mitigating random consistency. In: <i>Proceedings of the Forty-second International Conference on Machine Learning (ICML-25)<i>, 2025,267:65655-65686. (<span style="color: #FF0000">CCF-A, poster,26.9%</span>)[[Paper](https://proceedings.mlr.press/v267/wang25ev.html)] [[Code](https://github.com/FeijiangLi/ICML2025-PSED)]
 
 [7] **Xinyan Liang**, Yuhua Qian, Qian Guo, Keyin Zheng. A data representation method using distance correlation. <i>Frontiers of Computer Science<i>, 2025,19(1):191303.  (<span style="color: #FF0000">CCF-B</span>) [[Paper](https://link.springer.com/article/10.1007/s11704-023-3396-y)] [Code] [[报道](https://mp.weixin.qq.com/s/HiqS7_RT0kZew0P2f2iL2A)]
 
