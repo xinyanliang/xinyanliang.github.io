@@ -15,7 +15,7 @@ author_profile: true
 
 [1] Honghong Cheng, Yuhua Qian, **Xinyan Liang**, Jiye Liang, Qingfu Zhang. Mining association patterns from neighborhood insight. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11479913)] [Code] 
 
-[2] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code](https://github.com/LiShuailzn/ICML-2026-Dual-Perception)]
+[2] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
 
 [3] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(33):28292-28300. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40057)] [[Code](https://github.com/lvli-rise/UVF)] 
 
