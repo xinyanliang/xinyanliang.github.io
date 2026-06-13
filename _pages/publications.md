@@ -15,7 +15,7 @@ author_profile: true
 
 [1] Honghong Cheng, Yuhua Qian, **Xinyan Liang**, Jiye Liang, Qingfu Zhang. Mining association patterns from neighborhood insight. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11479913)] [Code] 
 
-[2] Zhaolong Ling, Dongliang Liang, **Xinyan Liang**, Xingyu Wu,Peng Zhou, Kui Yu, Xindong Wu. Multi-view causal feature selection. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper]] [Code] 
+[2] Zhaolong Ling, Dongliang Liang, **Xinyan Liang**, Xingyu Wu, Peng Zhou, Kui Yu, Xindong Wu. Multi-view causal feature selection. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [Paper] [Code] 
 
 [3] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
 
