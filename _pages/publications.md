@@ -10,7 +10,7 @@ author_profile: true
 ## preprint
 [1] Shijie Wang, Li Zhang, **Xinyan Liang***, Yuhua Qian, Shen Hu. Balanced multimodal learning: An unidirectional dynamic interaction perspective. [[arxiv](https://arxiv.org/abs/2509.02281)]
 
-[2] Li Lv, Jiarui Xing, **Xinyan Liang***, Jian Wang. The divergence is the uncertainty: A closed-form identity for flow matching. [[arxiv](https://arxiv.org/html/2605.00941v4)]
+[2] Li Lv, Jiarui Xing, **Xinyan Liang**, Jian Wang. The divergence is the uncertainty: A closed-form identity for flow matching. [[arxiv](https://arxiv.org/html/2605.00941v4)]
 
 ## 2026
 
