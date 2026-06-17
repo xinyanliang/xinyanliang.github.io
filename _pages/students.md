@@ -20,7 +20,7 @@ author_profile: true
 硕士生
 ------
 * 徐&#8195;柯&#8194;2024-2027 IEEE TIFS+
-* 苏全琛&#8194;2024-2027 IEEE TIP+
+* 苏全琛&#8194;2024-2027 <span style="color: #FF9700">【IEEE TIP】</span>
 * 左高辉&#8194;2024-2027 <span style="color: #FF9700">【ICML'26】</span>
 * 杨凯艳&#8194;2025-2028
 * 尹晓柱&#8194;2025-2028
