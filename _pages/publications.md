@@ -41,7 +41,7 @@ author_profile: true
 [13] Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, **Xinyan Liang**, Bingbing Jiang. Multi-view clustering with granularity-awarepseudo supervision. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] [Code]
 
 [14] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
-Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[[Paper]()] 
+Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] 
 
 [15] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [[Code](https://github.com/luckygirl11111/IAFE-YOLO)] 
 
