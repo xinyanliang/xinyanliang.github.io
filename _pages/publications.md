@@ -18,7 +18,7 @@ author_profile: true
 
 [2] Zhaolong Ling, Dongliang Liang, **Xinyan Liang**, Xingyu Wu, Peng Zhou, Kui Yu, Xindong Wu. Multi-view causal feature selection. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11568900)] [Code] 
 
-[3] Qian Guo, Quanchen Su, **Xinyan Liang***, Yuhua Qian, Nan Li and Zhihua Cui. Multi-branch tree-based fusion neural architecture search with zero-cost screen for multi-modal classification. <i>IEEE Transactions on Image Processing (IEEE TIP)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11585941)] [Code] 
+[3] Qian Guo, Quanchen Su, **Xinyan Liang***, Yuhua Qian, Nan Li and Zhihua Cui. Multi-branch tree-based fusion neural architecture search with zero-cost screen for multi-modal classification. <i>IEEE Transactions on Image Processing (IEEE TIP)<i> , 2026,35:7192-7205.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11585941?denied=)] [Code] 
 
 [4] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
 
