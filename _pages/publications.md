@@ -51,7 +51,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [18] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
 
-[19] Kaixiang Song, Ruihan Zhen, **Xinyan Liang***. From modality suppression to synergistic routing for balanced multimodal learning. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
+[19] Kaixiang Song (本科生), Ruihan Zhen (本科生), **Xinyan Liang***. From modality suppression to synergistic routing for balanced multimodal learning. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
 
 [20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
 
