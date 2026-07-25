@@ -53,7 +53,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [19] Kaixiang Song (本科生), Ruihan Zhen (本科生), **Xinyan Liang***. From modality suppression to synergistic routing for balanced multimodal learning. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
 
-[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
+[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper]()] [[Code]()]
 
 [21] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
 
