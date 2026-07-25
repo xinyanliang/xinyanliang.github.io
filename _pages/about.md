@@ -49,6 +49,7 @@ Professional Activity
 * Area Chair:
   * International Conference on Learning Representations (ICLR) 2026
   * IEEE International Conference on Multimedia & Expo (ICME) 2026
+  * AAAI Conference on Artificial Intelligence (AAAI) 2027
 * Program Committee Member:
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
   * International Conference on Computer Vision (ICCV) 2025
