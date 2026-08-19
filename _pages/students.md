@@ -10,11 +10,12 @@ author_profile: true
 博士后
 ------
 * 何云辉&#8194;2025-2026 研究课题：里德堡原子阵列中的Floquet热化研究
+* 斛金莲&#8194;2026-2028 研究课题：里德堡原子阵列中的Floquet热化研究
 
 博士生
 ------
-* 张&#8195;力&#8194;2025-2029 <span style="color: #FF9700">【AAAI'26, Informtion Fusion26】</span> IEEE TMTT+
-* 吕&#8195;立&#8194;2026-2030 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span><span style="color: #FF0000">【国家奖学金】</span>ACMMM'26+<span style="color: #0000FF">【一等奖学金】</span> AAAI'27+
+* 张&#8195;力&#8194;2025-2029 <span style="color: #FF9700">【AAAI'26, INFFUS26】</span> IEEE TMTT+
+* 吕&#8195;立&#8194;2026-2030 <span style="color: #FF9700">【IJCAI'25, AAAI'26】</span><span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span> AAAI'27+
 * [李&#8195;帅](https://lishuailzn.github.io/)&#8194;2026-2030 <span style="color: #FF9700">【NeurIPS'25, ICML'26】</span> TPAMI+ <span style="color: #FF0000">【国家奖学金】</span><span style="color: #0000FF">【一等奖学金】</span>
 
 硕士生
