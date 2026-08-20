@@ -22,7 +22,7 @@ author_profile: true
 
 [4]  **Xinyan Liang**, Xin Tang, Dongning Li, Yuhua Qian, Jinpeng Yuan, Linjie Zhang and Yaohui Zheng. EvoAMC: Evolutionary fusion with knowledge learning for automatic modulation classification. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i> , 2026.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper]()] [Code] 
 
-[5]  Li Zhang, **Xinyan Liang***, Yuhua Qian, Jinpeng Yuan, Linjie Zhang, Dong-Sheng Ding and Feng Li. Robust distributed Rydberg sensing under heterogeneous noise via evidential multi-view learning. <i>Information Fusion<i> , 2026.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper]()] [Code] 
+[5]  Li Zhang, **Xinyan Liang***, Yuhua Qian, Jinpeng Yuan, Linjie Zhang, Dong-Sheng Ding and Feng Li. Robust distributed Rydberg sensing under heterogeneous noise via evidential multi-view learning. <i>Information Fusion<i> , 2026:104719.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper]()] [Code] 
 
 [6] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, **Xinyan Liang**, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving amplitude-phase Shift keying signals in microwave fields with a Rydberg atomic receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000">交叉</span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
