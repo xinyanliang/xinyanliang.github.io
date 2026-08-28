@@ -51,17 +51,22 @@ author_profile: true
 [16] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
 Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] 
 
-[17] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [[Code](https://github.com/luckygirl11111/IAFE-YOLO)] 
+[17] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqiang Zhang, Haijun Geng. Robust signal enhancement via fractional detail views and knowledge guided multi-view fusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
 
-[18] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqiang Zhang, Haijun Geng. Robust signal enhancement via fractional detail views and knowledge guided multi-view fusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+[18] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
 
-[19] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+[19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
 
-[20] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
+[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper]()] [[Code]()]
 
-[21] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper]()] [[Code]()]
+[21] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
 
-[22] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
+[22] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [[Code](https://github.com/luckygirl11111/IAFE-YOLO)] 
+
+[23] Yayu Zhang, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Liyun Xu, Honghong Cheng. A simple deep multi-task sparse modeling method via group sparsity regularization. <i>Pattern Recognition(PR)<i>, 2026,180:114482.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326014469)] [Code] 
+
+[24] Guoqing Liu, Yuhua Qian, Xiaofei Qi, **Xinyan Liang**, Shuai Jin, Honghong Cheng. Multi-modal classification based on Monte Carlo tree search with Pareto optimality guarantee. <i>Pattern Recognition(PR)<i>, 2026,180:114653.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326016171)] [Code] 
+
 
 ## 2025
 
