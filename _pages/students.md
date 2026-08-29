@@ -41,7 +41,7 @@ author_profile: true
 本科生
 ------
 * 姜璋琪&#8194;2019-2023 毕业去向：国防科大硕士（导师：罗廷金） <span style="color: #FF9700">【AAAI'24】</span>
-* 刘泳亨&#8194;2023-2027
+* 刘泳亨&#8194;2023-2027 PR+
 * 宋凯翔&#8194;2023-2027 <span style="color: #FF9700">【IJCNN'26, ACMMM'26】</span> 
 * 甄睿涵&#8194;2024-2028 <span style="color: #FF9700">【IJCNN'26, ACMMM'26】</span>
 
