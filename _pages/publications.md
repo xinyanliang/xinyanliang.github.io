@@ -67,6 +67,10 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [24] Guoqing Liu, Yuhua Qian, Xiaofei Qi, **Xinyan Liang**, Shuai Jin, Honghong Cheng. Multi-modal classification based on Monte Carlo tree search with Pareto optimality guarantee. <i>Pattern Recognition(PR)<i>, 2026,180:114653.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326016171)] [Code] 
 
+[25] Yu Xie, Yiming Zhang, **Xinyan Liang**, Junqi Liu, Ming Li. Cross-order consensus graph matching. In: <i>Proceedings of the 40 Annual Conference on Neural Information Processing Systems (NeurIPS-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight, 292/30709=0.95%</span>)[Paper] 
+
+[26] Jie Yang, Hsiang-Ting Chen, Yan Ma, **Xinyan Liang**, Avinash Kumar Singh, Liang Du, Cheng-You Lu, Chenglong Zhang, Bingbing Jiang, Weiping Ding, Wei Chen. Resolution-aware structural density peak clustering. In: <i>Proceedings of the 40 Annual Conference on Neural Information Processing Systems (NeurIPS-26)<i>, 2026. (<span style="color: #FF0000">CCF-A</span>)[Paper] 
+
 
 ## 2025
 
