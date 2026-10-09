@@ -55,7 +55,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [18] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:162316-162342. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper](https://openreview.net/forum?id=LJf4y2MbjU)] [[Code]()]
 
-[19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
+[19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026:4367-4375. <span style="color: #FF0000"></span>[[Paper](https://www.ijcai.org/proceedings/2026/0486.pdf)] [[Code]()]
 
 [20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper]()] [[Code]()]
 
