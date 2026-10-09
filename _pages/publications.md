@@ -28,9 +28,9 @@ author_profile: true
 
 [5] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, **Xinyan Liang**, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving amplitude-phase Shift keying signals in microwave fields with a Rydberg atomic receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000">交叉</span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
-[6] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper]()] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
+[6] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:68136-68154. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper](https://openreview.net/forum?id=aWUlNpaZs1)] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
 
-[7] Qian Guo, Gaohui Zuo, Bingbing Jiang, Guangrui Fan, Zhihua Cui, **Xinyan Liang***, Jianjian Ding. Incomplete multi-view clustering via neighborhood-conditioned diffusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+[7] Qian Guo, Gaohui Zuo, Bingbing Jiang, Guangrui Fan, Zhihua Cui, **Xinyan Liang***, Jianjian Ding. Incomplete multi-view clustering via neighborhood-conditioned diffusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:38794-38808. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper](https://openreview.net/forum?id=0oVPf178N4)] [[Code]()]
 
 [8] Li Zhang, Pinhan Fu, Li Lv, Qian Guo, Liang Du, **Xinyan Liang***. EvoFMVC: Trusted federated multi-view clustering with evolutionary fusion. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(33):28292-28300. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40057)] [[Code](https://github.com/xxxl1ovo/EvoFMVC)] 
 
@@ -51,9 +51,9 @@ author_profile: true
 [16] Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, Chenglong Zhang, **Xinyan Liang**, Peng Zhou, Weiguo Sheng, Weiping Ding. 	
 Self-enhanced density clustering for high dimension and low sample size data. In: <i>Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper]()] 
 
-[17] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqiang Zhang, Haijun Geng. Robust signal enhancement via fractional detail views and knowledge guided multi-view fusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+[17] Zikun Jin, Yuhua Qian, **Xinyan Liang**, Jiaqiang Zhang, Haijun Geng. Robust signal enhancement via fractional detail views and knowledge guided multi-view fusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:53972-53997. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper](https://openreview.net/forum?id=iIWMjdBZ20)] [[Code]()]
 
-[18] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper]()] [[Code]()]
+[18] Tongzheng Zhao, Yangyang Wen, Yukai Shi, **Xinyan Liang**, Feijiang Li, Peng Zhou, Liang Du. Contractive anchor resolvent diffusion for incomplete multi-view clustering. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:162316-162342. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper](https://openreview.net/forum?id=LJf4y2MbjU)] [[Code]()]
 
 [19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026. <span style="color: #FF0000"></span>[[Paper]()] [[Code]()]
 
