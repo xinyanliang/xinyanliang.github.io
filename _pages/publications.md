@@ -28,7 +28,7 @@ author_profile: true
 
 [5] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, **Xinyan Liang**, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving amplitude-phase Shift keying signals in microwave fields with a Rydberg atomic receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000">交叉</span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
-[6] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:68136-68154. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper](https://openreview.net/forum?id=aWUlNpaZs1)] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
+[6] Shuai Li, **Xinyan Liang***, Yuhua Qian, Li Lv. GFD-EMVC: Evolutionary multi-view classification with label noise via gradient and feature dual-perception. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:68136-68154. (<span style="color: #FF0000">CCF-A, spotlight,2.2%</span>)[[Paper](https://openreview.net/forum?id=aWUlNpaZs1)] [[Code](https://github.com/LiShuailzn/ICML-2026-GFD-EMVC)]
 
 [7] Qian Guo, Gaohui Zuo, Bingbing Jiang, Guangrui Fan, Zhihua Cui, **Xinyan Liang***, Jianjian Ding. Incomplete multi-view clustering via neighborhood-conditioned diffusion. In: <i>Proceedings of the Forty-Third International Conference on Machine Learning (ICML-26)<i>, 2026,306:38794-38808. (<span style="color: #FF0000">CCF-A, 26.6%</span>)[[Paper](https://openreview.net/forum?id=0oVPf178N4)] [[Code]()]
 
