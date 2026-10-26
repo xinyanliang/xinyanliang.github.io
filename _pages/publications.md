@@ -22,7 +22,7 @@ author_profile: true
 
 [2] Zhaolong Ling, Dongliang Liang, **Xinyan Liang**, Xingyu Wu, Peng Zhou, Kui Yu, Xindong Wu. Multi-view causal feature selection. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11568900)] [Code] 
 
-[3] Qian Guo, Quanchen Su, **Xinyan Liang***, Yuhua Qian, Nan Li and Zhihua Cui. Multi-branch tree-based fusion neural architecture search with zero-cost screen for multi-modal classification. <i>IEEE Transactions on Image Processing (IEEE TIP)<i> , 2026,35:7192-7205.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11585941?denied=)] [Code] 
+[3] Qian Guo, Quanchen Su, **Xinyan Liang***, Yuhua Qian, Nan Li and Zhihua Cui. Multi-branch tree-based fusion neural architecture search with zero-cost screen for multi-modal classification. <i>IEEE Transactions on Image Processing (IEEE TIP)<i> , 2026,35:7192-7205.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11585941?denied=)] [[Code](https://github.com/Enchanted13su/MBTF-NAS)] 
 
 [4]  **Xinyan Liang**, Xin Tang, Dongning Li, Yuhua Qian, Jinpeng Yuan, Linjie Zhang and Yaohui Zheng. EvoAMC: Evolutionary fusion with knowledge learning for automatic modulation classification. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i> , 2026,DOI:10.1109/TEVC.2026.3745119.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11744410)] [[Code](https://github.com/TangXin03/EvoAMC)] 
 
