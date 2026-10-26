@@ -24,7 +24,7 @@ author_profile: true
 
 [3] Qian Guo, Quanchen Su, **Xinyan Liang***, Yuhua Qian, Nan Li and Zhihua Cui. Multi-branch tree-based fusion neural architecture search with zero-cost screen for multi-modal classification. <i>IEEE Transactions on Image Processing (IEEE TIP)<i> , 2026,35:7192-7205.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11585941?denied=)] [Code] 
 
-[4]  **Xinyan Liang**, Xin Tang, Dongning Li, Yuhua Qian, Jinpeng Yuan, Linjie Zhang and Yaohui Zheng. EvoAMC: Evolutionary fusion with knowledge learning for automatic modulation classification. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i> , 2026,DOI:10.1109/TEVC.2026.3745119.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11744410)] [Code] 
+[4]  **Xinyan Liang**, Xin Tang, Dongning Li, Yuhua Qian, Jinpeng Yuan, Linjie Zhang and Yaohui Zheng. EvoAMC: Evolutionary fusion with knowledge learning for automatic modulation classification. <i>IEEE Transactions on Evolutionary Computation (IEEE TEVC)<i> , 2026,DOI:10.1109/TEVC.2026.3745119.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11744410)] [[Code](https://github.com/TangXin03/EvoAMC)] 
 
 [5] Zhida Wang, Yang Yan, Xinyi Y. I. Xu, Wei E. I. Sha, **Xinyan Liang**, Jinpeng Yuan, Lirong Wang, Liantuan Xiao, Suotang Jia. Receiving amplitude-phase Shift keying signals in microwave fields with a Rydberg atomic receiver. <i>Chinese Physics B<i>, 2026. (<span style="color: #FF0000">交叉</span>)[[Paper](https://iopscience.iop.org/article/10.1088/1674-1056/ae37fb)] 
 
