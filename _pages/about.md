@@ -48,6 +48,8 @@ Professional Activity
   * Pattern Recognition (一区TOP) 2026.04-至今
 * Guest Editor:
   * Automated Software Engineering (CCF-B) Special issues: [Intelligent Techniques for Automated Code Review and Software Quality Evaluation](https://link.springer.com/collections/jjgcbecced)2026.04-2026.10
+* Workshop Co-Chairs:
+   * BIBM 2026 (CCF-B) : [AutoML for Medical Data Analysis and Healthcare Intelligence (AutoMLMDA)](https://www3.cs.stonybrook.edu/~bibm2026/workshopwebpges.html)
 * Area Chair:
   * International Conference on Learning Representations (ICLR) 2026
   * IEEE International Conference on Multimedia & Expo (ICME) 2026
