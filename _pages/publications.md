@@ -36,7 +36,7 @@ author_profile: true
 
 [9] Li Lv, Qian Guo, Li Zhang, Liang Du, Bingbing Jiang, Lu Chen, **Xinyan Liang***. Uncertainty-guided view-strength-aware feature utilization for multi-view classification. In: <i>Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26)<i>, 2026,40(29):24198-24206. (<span style="color: #FF0000">CCF-A, Oral</span>)[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39599)] [[Code](https://github.com/lvli-rise/UVF)] 
 
-[10] Kaixiang Song (本科生), Ruihan Zhen (本科生), **Xinyan Liang***. From modality suppression to synergistic routing for balanced multimodal learning. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
+[10] Kaixiang Song (本科生), Ruihan Zhen (本科生), **Xinyan Liang***. From modality suppression to synergistic routing for balanced multimodal learning. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:9020-9028. <span style="color: #FF0000">CCF-A</span>[[Paper](https://dl.acm.org/doi/abs/10.1145/3767308.3836242)] [[Code]()]
 
 [11] Lu Chen, Chaofan Yang, Zeyu Wang, Yuwei Wang, **Xinyan Liang***, Yuhua Qian. Learning invariant grasping features via scene prototypes and structure priors in robotic manipulation. <i> IEEE Transactions on Automation Science and Engineering (IEEE TASE)</i>, 2026,23:3877-3888 (<span style="color: #FF0000">SCI二区</span>)  [[Paper](https://ieeexplore.ieee.org/document/11248938)] [Code]  
 
@@ -57,9 +57,9 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026:4367-4375. <span style="color: #FF0000"></span>[[Paper](https://www.ijcai.org/proceedings/2026/0486.pdf)] [[Code]()]
 
-[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper]()] [[Code]()]
+[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:3444-3452. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper](https://dl.acm.org/doi/10.1145/3767308.3836220)] [[Code]()]
 
-[21] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026. <span style="color: #FF0000">CCF-A</span>[[Paper]()] [[Code]()]
+[21] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:7138-7146. <span style="color: #FF0000">CCF-A</span>[[Paper](https://dl.acm.org/doi/10.1145/3767308.3836092)] [[Code]()]
 
 [22] Jiajia Lu, Yuhua Qian, Wenping Zheng, **Xinyan Liang**, Keqi Wang, Zhian Yuan. Illumination-adaptive feature enhancement for low-light object detection. <i>Pattern Recognition(PR)<i>, 2026,176:113122.  (<span style="color: #FF0000"> SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326000853)] [[Code](https://github.com/luckygirl11111/IAFE-YOLO)] 
 
