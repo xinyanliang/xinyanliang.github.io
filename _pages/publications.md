@@ -57,7 +57,7 @@ Self-enhanced density clustering for high dimension and low sample size data. In
 
 [19] Shen Hu, Yuhua Qian, **Xinyan Liang**, Zikun Jin, Jiaqian Zhang, Jiangfeng Zhang. AMR-LLM: Knowledge-enhanced multi-modal automatic modulation recognition via large language models. In: <i>Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-26)<i>, 2026:4367-4375. <span style="color: #FF0000"></span>[[Paper](https://www.ijcai.org/proceedings/2026/0486.pdf)] [[Code]()]
 
-[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:3444-3452. <span style="color: #FF0000">CCF-A, Oral</span>[[Paper](https://dl.acm.org/doi/10.1145/3767308.3836220)] [[Code]()]
+[20] Qin Huang, Yuhua Qian, **Xinyan Liang**, Wenping Zheng. 	SLD-Flow: Statistical label dependency for incomplete multi-view multi-label classification. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:3444-3452. <span style="color: #FF0000">CCF-A, Oral, Outstanding Paper Awards</span>[[Paper](https://dl.acm.org/doi/10.1145/3767308.3836220)] [[Code]()]
 
 [21] Jiajia Lu, Wenping Zheng, Yuhua Qian, **Xinyan Liang**, Jieting Wang, Zhian Yuan. 	YOLO-LOD: Low-light object detection via hierarchically-distilled illumination estimator and wavelet-attention feature aggregation. In: <i>Proceedings of the 34th ACM International Conference on Multimedia (ACM MM-26)<i>, 2026:7138-7146. <span style="color: #FF0000">CCF-A</span>[[Paper](https://dl.acm.org/doi/10.1145/3767308.3836092)] [[Code]()]
 
