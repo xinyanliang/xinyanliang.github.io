@@ -16,6 +16,8 @@ author_profile: true
 
 [1]  Li Zhang, **Xinyan Liang***, Yuhua Qian, Jinpeng Yuan, Linjie Zhang, Dong-Sheng Ding and Feng Li. Robust distributed Rydberg sensing under heterogeneous noise via evidential multi-view learning. <i>Information Fusion<i> , 2027,138:104719.  (<span style="color: #FF0000">交叉, SCI一区Top</span>) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253526005956)] [Code] 
 
+[2]  Jiaqiang Zhang, Yuhua Qian, **Xinyan Liang***, Zikun Jin, and Shen Hu. Speech enhancement via diffusion models with triple-path representation and residual-based adaptive fusion. <i>IEEE Transactions on Audio, Speech and Language Processing<i> , 2027.  (<span style="color: #FF0000">SCI一区Top</span>) [[Paper]()] [Code] 
+
 ## 2026
 
 [1] Honghong Cheng, Yuhua Qian, **Xinyan Liang**, Jiye Liang, Qingfu Zhang. Mining association patterns from neighborhood insight. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)<i> , 2026.  (<span style="color: #FF0000">CCF-A, SCI一区Top</span>) [[Paper](https://ieeexplore.ieee.org/document/11479913)] [Code] 
